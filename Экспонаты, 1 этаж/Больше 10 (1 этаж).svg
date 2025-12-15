@@ -1,0 +1,1043 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10049pt" height="8691pt" viewBox="0.00 0.00 10049.00 8691.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 8686.67)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-8686.67 10045.43,-8686.67 10045.43,4 -4,4"/>
+<!-- посетитель&#45;&gt;схема -->
+<g id="edge12" class="edge">
+<title>посетитель-&gt;схема</title>
+<path fill="none" stroke="black" d="M5584.49,-4198.74C5421.13,-4567.25 4873.04,-5803.6 4681.19,-6236.38"/>
+<polygon fill="black" stroke="black" points="4674.92,-6233.25 4673.21,-6254.37 4687.72,-6238.93 4674.92,-6233.25"/>
+<text xml:space="preserve" text-anchor="middle" x="5105.33" y="-5220.26" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- посетитель&#45;&gt;рука -->
+<g id="edge100" class="edge">
+<title>посетитель-&gt;рука</title>
+<path fill="none" stroke="black" d="M5556.5,-4193.31C5204.39,-4663.51 3708.85,-6660.58 3350.06,-7139.68"/>
+<polygon fill="black" stroke="black" points="3344.58,-7135.33 3338.19,-7155.53 3355.79,-7143.72 3344.58,-7135.33"/>
+<text xml:space="preserve" text-anchor="middle" x="4420.78" y="-5669.2" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- посетитель&#45;&gt;посетитель -->
+<g id="edge62" class="edge">
+<title>посетитель-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5819.2,-4098.49C5819.29,-4098.48 5819.37,-4098.48 5819.46,-4098.47"/>
+<polygon fill="black" stroke="black" points="5826.8,-4110.51 5819.24,-4090.72 5812.81,-4110.91 5826.8,-4110.51"/>
+<text xml:space="preserve" text-anchor="middle" x="5847.06" y="-4091.15" font-family="Arial" font-size="9.00">цель</text>
+</g>
+<!-- посетитель&#45;&gt;труба -->
+<g id="edge94" class="edge">
+<title>посетитель-&gt;труба</title>
+<path fill="none" stroke="black" d="M5560.5,-4194.4C5265.28,-4626.83 4131.37,-6324.91 3863.75,-6735.53"/>
+<polygon fill="black" stroke="black" points="3858.08,-6731.41 3853.04,-6751.99 3869.82,-6739.04 3858.08,-6731.41"/>
+<text xml:space="preserve" text-anchor="middle" x="4702.13" y="-5467.66" font-family="Arial" font-size="9.00">цель</text>
+</g>
+<!-- посетитель&#45;&gt;труба -->
+<g id="edge98" class="edge">
+<title>посетитель-&gt;труба</title>
+<path fill="none" stroke="black" d="M5566.46,-4195.42C5282.59,-4630.2 4146.92,-6330.73 3868.69,-6737.51"/>
+<polygon fill="black" stroke="black" points="3863.05,-6733.36 3857.52,-6753.81 3874.6,-6741.27 3863.05,-6733.36"/>
+<text xml:space="preserve" text-anchor="middle" x="4695.07" y="-5469.16" font-family="Arial" font-size="9.00">направить</text>
+</g>
+<!-- посетитель&#45;&gt;ожидание -->
+<g id="edge2" class="edge">
+<title>посетитель-&gt;ожидание</title>
+<path fill="none" stroke="black" d="M5754.55,-4011.98C6233.16,-3694.86 7961.32,-2549.82 8424.31,-2243.05"/>
+<polygon fill="black" stroke="black" points="8428.11,-2248.93 8440.92,-2232.05 8420.38,-2237.26 8428.11,-2248.93"/>
+<text xml:space="preserve" text-anchor="middle" x="7054.42" y="-3130.22" font-family="Arial" font-size="9.00">характеристика</text>
+</g>
+<!-- посетитель&#45;&gt;противостояние -->
+<g id="edge3" class="edge">
+<title>посетитель-&gt;противостояние</title>
+<path fill="none" stroke="black" d="M5467.62,-4039.89C4762.11,-3806.85 1979.7,-2887.81 1252.88,-2647.73"/>
+<polygon fill="black" stroke="black" points="1255.11,-2641.1 1233.93,-2641.47 1250.72,-2654.39 1255.11,-2641.1"/>
+<text xml:space="preserve" text-anchor="middle" x="3325.24" y="-3346.51" font-family="Arial" font-size="9.00">характеристика</text>
+</g>
+<!-- посетитель&#45;&gt;игра -->
+<g id="edge4" class="edge">
+<title>посетитель-&gt;игра</title>
+<path fill="none" stroke="black" d="M5552.03,-3995.42C5157.58,-3503.68 3406.18,-1320.27 3071.86,-903.49"/>
+<polygon fill="black" stroke="black" points="3077.49,-899.31 3059.51,-888.09 3066.57,-908.07 3077.49,-899.31"/>
+<text xml:space="preserve" text-anchor="middle" x="4276.94" y="-2452.16" font-family="Arial" font-size="9.00">характеристика</text>
+</g>
+<!-- посетитель&#45;&gt;движение -->
+<g id="edge90" class="edge">
+<title>посетитель-&gt;движение</title>
+<path fill="none" stroke="black" d="M5621.56,-4202.03C5580.04,-4678.24 5414.06,-6582.33 5378.24,-6993.19"/>
+<polygon fill="black" stroke="black" points="5371.27,-6992.56 5376.51,-7013.1 5385.22,-6993.78 5371.27,-6992.56"/>
+<text xml:space="preserve" text-anchor="middle" x="5469.89" y="-5600.31" font-family="Arial" font-size="9.00">предметность</text>
+</g>
+<!-- посетитель&#45;&gt;кнопка -->
+<g id="edge99" class="edge">
+<title>посетитель-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M5539.34,-4188.61C5181.58,-4567.73 3884.36,-5970.49 3586.17,-6301.02"/>
+<polygon fill="black" stroke="black" points="3581.12,-6296.16 3572.94,-6315.71 3591.53,-6305.53 3581.12,-6296.16"/>
+<text xml:space="preserve" text-anchor="middle" x="4545.25" y="-5247.52" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- посетитель&#45;&gt;стол -->
+<g id="edge38" class="edge">
+<title>посетитель-&gt;стол</title>
+<path fill="none" stroke="black" d="M5514.14,-4178.68C5183.74,-4425.74 4249.23,-5140.48 3978.18,-5353.77"/>
+<polygon fill="black" stroke="black" points="3974.23,-5347.97 3962.86,-5365.85 3982.9,-5358.96 3974.23,-5347.97"/>
+<text xml:space="preserve" text-anchor="middle" x="4716.15" y="-4768.93" font-family="Arial" font-size="9.00">расположение</text>
+</g>
+<!-- труба&#45;&gt;схема -->
+<g id="edge68" class="edge">
+<title>труба-&gt;схема</title>
+<path fill="none" stroke="black" d="M3892.95,-6778.63C4030.32,-6704.14 4300.83,-6557.45 4468.7,-6466.43"/>
+<polygon fill="black" stroke="black" points="4471.81,-6472.7 4486.06,-6457.01 4465.14,-6460.39 4471.81,-6472.7"/>
+<text xml:space="preserve" text-anchor="middle" x="4153.32" y="-6625.23" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- труба&#45;&gt;рука -->
+<g id="edge105" class="edge">
+<title>труба-&gt;рука</title>
+<path fill="none" stroke="black" d="M3733.47,-6882.74C3640.4,-6955.53 3479.54,-7081.34 3374.58,-7163.44"/>
+<polygon fill="black" stroke="black" points="3370.54,-7157.71 3359.1,-7175.54 3379.17,-7168.74 3370.54,-7157.71"/>
+<text xml:space="preserve" text-anchor="middle" x="3521.52" y="-7025.79" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- Подпись &quot;Аэрохоккей&quot;&#45;&gt;посетитель -->
+<g id="edge11" class="edge">
+<title>Подпись "Аэрохоккей"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M2230.45,-6161.87C2734.17,-5855.53 4895.98,-4540.84 5483.26,-4183.69"/>
+<polygon fill="black" stroke="black" points="5486.67,-4189.81 5500.12,-4173.44 5479.39,-4177.85 5486.67,-4189.81"/>
+<text xml:space="preserve" text-anchor="middle" x="3831.85" y="-5175.48" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Аэрохоккей&quot;&#45;&gt;кнопка -->
+<g id="edge8" class="edge">
+<title>Подпись "Аэрохоккей"-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M2505.05,-6271.48C2781.65,-6301.41 3143.18,-6338.4 3353.12,-6357.93"/>
+<polygon fill="black" stroke="black" points="3352.45,-6364.89 3373.01,-6359.77 3353.73,-6350.95 3352.45,-6364.89"/>
+<text xml:space="preserve" text-anchor="middle" x="2911.58" y="-6317.4" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Аэрохоккей&quot;&#45;&gt;кнопка -->
+<g id="edge9" class="edge">
+<title>Подпись "Аэрохоккей"-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M2554.22,-6264.15C2826.2,-6291.35 3162.67,-6326.81 3359.55,-6349.38"/>
+<polygon fill="black" stroke="black" points="3358.62,-6356.32 3379.29,-6351.66 3360.22,-6342.42 3358.62,-6356.32"/>
+<text xml:space="preserve" text-anchor="middle" x="2931.88" y="-6298.67" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Скорость реакции&quot;&#45;&gt;посетитель -->
+<g id="edge18" class="edge">
+<title>Подпись "Скорость реакции"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M4485.41,-487.53C4622.95,-920.52 5403.78,-3378.6 5590.76,-3967.21"/>
+<polygon fill="black" stroke="black" points="5583.97,-3968.97 5596.7,-3985.91 5597.31,-3964.73 5583.97,-3968.97"/>
+<text xml:space="preserve" text-anchor="middle" x="5013.08" y="-2230.07" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Волк, баран и капуста&quot;&#45;&gt;посетитель -->
+<g id="edge21" class="edge">
+<title>Подпись "Волк, баран и капуста"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M4386.24,-4403.03C4690.37,-4330.98 5173.66,-4212.85 5439.72,-4145.33"/>
+<polygon fill="black" stroke="black" points="5441.33,-4152.14 5458.99,-4140.43 5437.88,-4138.57 5441.33,-4152.14"/>
+<text xml:space="preserve" text-anchor="middle" x="4897.98" y="-4276.88" font-family="Arial" font-size="9.00">помощь</text>
+</g>
+<!-- Подпись &quot;Волк, баран и капуста&quot;&#45;&gt;посетитель -->
+<g id="edge22" class="edge">
+<title>Подпись "Волк, баран и капуста"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M4347.03,-4401.92C4645.16,-4326.73 5154.71,-4202.53 5433.84,-4137.1"/>
+<polygon fill="black" stroke="black" points="5435.42,-4143.92 5453.3,-4132.55 5432.23,-4130.29 5435.42,-4143.92"/>
+<text xml:space="preserve" text-anchor="middle" x="4865.43" y="-4272.21" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Волк, баран и капуста&quot;&#45;&gt;стол -->
+<g id="edge23" class="edge">
+<title>Подпись "Волк, баран и капуста"-&gt;стол</title>
+<path fill="none" stroke="black" d="M4098.29,-4529.61C4060.93,-4699.44 3960.86,-5154.36 3920.68,-5337.03"/>
+<polygon fill="black" stroke="black" points="3913.87,-5335.41 3916.41,-5356.44 3927.55,-5338.41 3913.87,-5335.41"/>
+<text xml:space="preserve" text-anchor="middle" x="3984.48" y="-4936.02" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Часовой механизм&quot;&#45;&gt;посетитель -->
+<g id="edge28" class="edge">
+<title>Подпись "Часовой механизм"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5771.35,-845C5753.87,-1249.56 5660.52,-3410.26 5636.58,-3964.32"/>
+<polygon fill="black" stroke="black" points="5629.59,-3963.86 5635.73,-3984.14 5643.58,-3964.46 5629.59,-3963.86"/>
+<text xml:space="preserve" text-anchor="middle" x="5678.96" y="-2407.36" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Невозможные фигуры&quot;&#45;&gt;посетитель -->
+<g id="edge30" class="edge">
+<title>Подпись "Невозможные фигуры"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7756.32,-840.32C7468.57,-1246.5 6034.91,-3432.34 5700.59,-3972.93"/>
+<polygon fill="black" stroke="black" points="5694.73,-3969.1 5690.19,-3989.8 5706.64,-3976.45 5694.73,-3969.1"/>
+<text xml:space="preserve" text-anchor="middle" x="6705.95" y="-2409.32" font-family="Arial" font-size="9.00">удивление</text>
+</g>
+<!-- Подпись &quot;Невозможные фигуры&quot;&#45;&gt;посетитель -->
+<g id="edge31" class="edge">
+<title>Подпись "Невозможные фигуры"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7771.04,-840.42C7525.7,-1247.82 6087.66,-3442.76 5717.61,-3976.75"/>
+<polygon fill="black" stroke="black" points="5711.95,-3972.63 5706.28,-3993.05 5723.44,-3980.62 5711.95,-3972.63"/>
+<text xml:space="preserve" text-anchor="middle" x="6719.32" y="-2411.28" font-family="Arial" font-size="9.00">знакомство</text>
+</g>
+<!-- Подпись &quot;Невозможные фигуры&quot;&#45;&gt;посетитель -->
+<g id="edge32" class="edge">
+<title>Подпись "Невозможные фигуры"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7766.27,-840.42C7506.69,-1247.39 6070.06,-3439.24 5711.88,-3975.44"/>
+<polygon fill="black" stroke="black" points="5706.23,-3971.29 5700.93,-3991.8 5717.87,-3979.07 5706.23,-3971.29"/>
+<text xml:space="preserve" text-anchor="middle" x="6711.57" y="-2410.63" font-family="Arial" font-size="9.00">обдумывание</text>
+</g>
+<!-- Подпись &quot;Невозможные фигуры&quot;&#45;&gt;посетитель -->
+<g id="edge33" class="edge">
+<title>Подпись "Невозможные фигуры"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7761.36,-840.39C7487.65,-1246.95 6052.5,-3435.73 5706.21,-3974.15"/>
+<polygon fill="black" stroke="black" points="5700.58,-3969.97 5695.66,-3990.58 5712.36,-3977.54 5700.58,-3969.97"/>
+<text xml:space="preserve" text-anchor="middle" x="6713.78" y="-2409.97" font-family="Arial" font-size="9.00">смещение</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot;&#45;&gt;посетитель -->
+<g id="edge35" class="edge">
+<title>Подпись "Гигантская мебель"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6606.51,-280.65C6465.29,-729.17 5788.04,-3351.33 5653.4,-3965.29"/>
+<polygon fill="black" stroke="black" points="5646.57,-3963.77 5649.16,-3984.8 5660.25,-3966.74 5646.57,-3963.77"/>
+<text xml:space="preserve" text-anchor="middle" x="6109.95" y="-2125.67" font-family="Arial" font-size="9.00">прогулка</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot;&#45;&gt;посетитель -->
+<g id="edge36" class="edge">
+<title>Подпись "Гигантская мебель"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6622.39,-280.45C6532.44,-728.87 5855.58,-3357.01 5674.49,-3967.31"/>
+<polygon fill="black" stroke="black" points="5667.84,-3965.12 5668.82,-3986.29 5681.26,-3969.13 5667.84,-3965.12"/>
+<text xml:space="preserve" text-anchor="middle" x="6125.94" y="-2126.58" font-family="Arial" font-size="9.00">забирание</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot;&#45;&gt;посетитель -->
+<g id="edge37" class="edge">
+<title>Подпись "Гигантская мебель"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6618.46,-280.71C6515.47,-729.71 5838.72,-3355.38 5669.2,-3966.7"/>
+<polygon fill="black" stroke="black" points="5662.53,-3964.56 5663.91,-3985.7 5676.02,-3968.31 5662.53,-3964.56"/>
+<text xml:space="preserve" text-anchor="middle" x="6121.33" y="-2126.4" font-family="Arial" font-size="9.00">положение</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot;&#45;&gt;посетитель -->
+<g id="edge39" class="edge">
+<title>Подпись "Гигантская мебель"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6614.56,-280.56C6498.9,-728.96 5821.98,-3353.38 5663.96,-3966.02"/>
+<polygon fill="black" stroke="black" points="5657.26,-3963.95 5659.04,-3985.07 5670.82,-3967.45 5657.26,-3963.95"/>
+<text xml:space="preserve" text-anchor="middle" x="6109.25" y="-2125.99" font-family="Arial" font-size="9.00">воспоминание</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot;&#45;&gt;посетитель -->
+<g id="edge40" class="edge">
+<title>Подпись "Гигантская мебель"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6610.62,-280.41C6482.29,-728.33 5804.88,-3352.82 5658.61,-3965.85"/>
+<polygon fill="black" stroke="black" points="5651.9,-3963.83 5654.09,-3984.9 5665.52,-3967.06 5651.9,-3963.83"/>
+<text xml:space="preserve" text-anchor="middle" x="6109.61" y="-2125.83" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Гиперболоид вращения&quot;&#45;&gt;посетитель -->
+<g id="edge45" class="edge">
+<title>Подпись "Гиперболоид вращения"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M1792.09,-1885.35C2352.49,-2207.74 4837.86,-3637.57 5479.44,-4006.67"/>
+<polygon fill="black" stroke="black" points="5475.75,-4012.62 5496.57,-4016.52 5482.73,-4000.48 5475.75,-4012.62"/>
+<text xml:space="preserve" text-anchor="middle" x="3610.76" y="-2948.71" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Вязкое трение&quot;&#45;&gt;посетитель -->
+<g id="edge47" class="edge">
+<title>Подпись "Вязкое трение"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5627.94,-7291.7C5640.76,-6891.07 5646.05,-4771.72 5636.39,-4223.43"/>
+<polygon fill="black" stroke="black" points="5643.39,-4223.31 5636.02,-4203.44 5629.39,-4223.57 5643.39,-4223.31"/>
+<text xml:space="preserve" text-anchor="middle" x="5662.17" y="-5760.27" font-family="Arial" font-size="9.00">надавливание</text>
+</g>
+<!-- Подпись &quot;Вязкое трение&quot;&#45;&gt;посетитель -->
+<g id="edge48" class="edge">
+<title>Подпись "Вязкое трение"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5619.62,-7292.05C5608.6,-6892.22 5612.87,-4770.94 5625,-4223.07"/>
+<polygon fill="black" stroke="black" points="5631.99,-4223.63 5625.46,-4203.47 5617.99,-4223.3 5631.99,-4223.63"/>
+<text xml:space="preserve" text-anchor="middle" x="5599.81" y="-5760.26" font-family="Arial" font-size="9.00">надувание</text>
+</g>
+<!-- Подпись &quot;Вязкое трение&quot;&#45;&gt;посетитель -->
+<g id="edge49" class="edge">
+<title>Подпись "Вязкое трение"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5623.77,-7292.06C5624.68,-6892.25 5629.46,-4770.97 5630.69,-4223.08"/>
+<polygon fill="black" stroke="black" points="5637.69,-4223.5 5630.74,-4203.48 5623.69,-4223.47 5637.69,-4223.5"/>
+<text xml:space="preserve" text-anchor="middle" x="5602.23" y="-5760.27" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Вязкое трение&quot;&#45;&gt;движение -->
+<g id="edge50" class="edge">
+<title>Подпись "Вязкое трение"-&gt;движение</title>
+<path fill="none" stroke="black" d="M5566.08,-7292.07C5526.76,-7247.53 5474.66,-7188.53 5434.26,-7142.77"/>
+<polygon fill="black" stroke="black" points="5439.7,-7138.36 5421.22,-7128.01 5429.21,-7147.63 5439.7,-7138.36"/>
+<text xml:space="preserve" text-anchor="middle" x="5475.16" y="-7220.12" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge52" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8507.92,-3436.96C7822,-3570.56 6337.01,-3899.73 5816.09,-4035.71"/>
+<polygon fill="black" stroke="black" points="5814.39,-4028.92 5796.82,-4040.77 5817.95,-4042.46 5814.39,-4028.92"/>
+<text xml:space="preserve" text-anchor="middle" x="7144.5" y="-3739.03" font-family="Arial" font-size="9.00">сидение</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge53" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8661.08,-3443.67C8081.64,-3593.6 6418.93,-3960.18 5835.94,-4066.47"/>
+<polygon fill="black" stroke="black" points="5834.75,-4059.57 5816.31,-4070.02 5837.24,-4073.35 5834.75,-4059.57"/>
+<text xml:space="preserve" text-anchor="middle" x="7223.5" y="-3757.77" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge54" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8634.72,-3442.84C8031.64,-3588.57 6404.06,-3947.24 5832.63,-4060.03"/>
+<polygon fill="black" stroke="black" points="5831.69,-4053.08 5813.42,-4063.81 5834.39,-4066.82 5831.69,-4053.08"/>
+<text xml:space="preserve" text-anchor="middle" x="7213.67" y="-3754.13" font-family="Arial" font-size="9.00">кручение</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge55" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8605.98,-3441.8C7980.35,-3583.82 6389.35,-3934.51 5829.53,-4053.6"/>
+<polygon fill="black" stroke="black" points="5828.44,-4046.68 5810.33,-4057.68 5831.35,-4060.37 5828.44,-4046.68"/>
+<text xml:space="preserve" text-anchor="middle" x="7190.25" y="-3750.4" font-family="Arial" font-size="9.00">укладывание</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge56" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8575.46,-3440.42C7928.45,-3579.2 6372.59,-3922.49 5825.35,-4047.47"/>
+<polygon fill="black" stroke="black" points="5824.16,-4040.57 5806.22,-4051.85 5827.28,-4054.21 5824.16,-4040.57"/>
+<text xml:space="preserve" text-anchor="middle" x="7185.4" y="-3746.65" font-family="Arial" font-size="9.00">осмотр</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot;&#45;&gt;посетитель -->
+<g id="edge57" class="edge">
+<title>Подпись "Кабина грузовика"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8542.42,-3438.87C7875.15,-3574.89 6355.27,-3910.87 5820.99,-4041.47"/>
+<polygon fill="black" stroke="black" points="5819.72,-4034.58 5801.96,-4046.14 5823.06,-4048.17 5819.72,-4034.58"/>
+<text xml:space="preserve" text-anchor="middle" x="7151.7" y="-3742.87" font-family="Arial" font-size="9.00">чувствование</text>
+</g>
+<!-- Подпись &quot;Гидравлический пресс&quot;&#45;&gt;посетитель -->
+<g id="edge59" class="edge">
+<title>Подпись "Гидравлический пресс"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8493.92,-7655.93C8170.05,-7222.21 6200.39,-4764.1 5731.15,-4206.35"/>
+<polygon fill="black" stroke="black" points="5736.6,-4201.95 5718.36,-4191.17 5725.9,-4210.98 5736.6,-4201.95"/>
+<text xml:space="preserve" text-anchor="middle" x="7095.03" y="-5923.04" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Гидравлический пресс&quot;&#45;&gt;посетитель -->
+<g id="edge60" class="edge">
+<title>Подпись "Гидравлический пресс"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8479.04,-7656.35C8109.75,-7225.03 6147.78,-4778.42 5715.27,-4211.21"/>
+<polygon fill="black" stroke="black" points="5720.92,-4207.07 5703.24,-4195.39 5709.78,-4215.55 5720.92,-4207.07"/>
+<text xml:space="preserve" text-anchor="middle" x="7074.65" y="-5936.48" font-family="Arial" font-size="9.00">вставание</text>
+</g>
+<!-- Подпись &quot;Гидравлический пресс&quot;&#45;&gt;посетитель -->
+<g id="edge61" class="edge">
+<title>Подпись "Гидравлический пресс"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8484.14,-7656.17C8129.81,-7224 6164.62,-4772.84 5720.28,-4209.34"/>
+<polygon fill="black" stroke="black" points="5726.09,-4205.39 5708.21,-4194.02 5715.09,-4214.06 5726.09,-4205.39"/>
+<text xml:space="preserve" text-anchor="middle" x="7063.45" y="-5924.65" font-family="Arial" font-size="9.00">меняться местами</text>
+</g>
+<!-- Подпись &quot;Гидравлический пресс&quot;&#45;&gt;посетитель -->
+<g id="edge63" class="edge">
+<title>Подпись "Гидравлический пресс"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8489.09,-7656.03C8149.95,-7223.09 6182.48,-4768.47 5725.68,-4207.86"/>
+<polygon fill="black" stroke="black" points="5731.31,-4203.69 5713.25,-4192.61 5720.46,-4212.53 5731.31,-4203.69"/>
+<text xml:space="preserve" text-anchor="middle" x="7082.38" y="-5923.84" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Аэропушка&quot;&#45;&gt;посетитель -->
+<g id="edge69" class="edge">
+<title>Подпись "Аэропушка"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3606.28,-7359.32C3858.68,-6952.24 5221.31,-4754.59 5556.48,-4214.02"/>
+<polygon fill="black" stroke="black" points="5562.34,-4217.84 5566.93,-4197.16 5550.44,-4210.47 5562.34,-4217.84"/>
+<text xml:space="preserve" text-anchor="middle" x="4563.87" y="-5789.37" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Аэропушка&quot;&#45;&gt;труба -->
+<g id="edge67" class="edge">
+<title>Подпись "Аэропушка"-&gt;труба</title>
+<path fill="none" stroke="black" d="M3592.2,-7359.11C3634.79,-7253.25 3719.12,-7043.6 3768.48,-6920.88"/>
+<polygon fill="black" stroke="black" points="3774.85,-6923.8 3775.82,-6902.63 3761.87,-6918.58 3774.85,-6923.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3662.84" y="-7142.69" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Аэропушка&quot;&#45;&gt;кнопка -->
+<g id="edge65" class="edge">
+<title>Подпись "Аэропушка"-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3563.39,-7358.87C3556.16,-7173.99 3535.62,-6648.56 3527.83,-6449.15"/>
+<polygon fill="black" stroke="black" points="3534.83,-6449.08 3527.05,-6429.37 3520.84,-6449.63 3534.83,-6449.08"/>
+<text xml:space="preserve" text-anchor="middle" x="3528.11" y="-6906.71" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Поднимите шарик&quot;&#45;&gt;посетитель -->
+<g id="edge77" class="edge">
+<title>Подпись "Поднимите шарик"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5698.16,-6011.05C5693.81,-5728.01 5656.37,-4606.87 5638.9,-4223.32"/>
+<polygon fill="black" stroke="black" points="5645.91,-4223.27 5637.99,-4203.61 5631.92,-4223.91 5645.91,-4223.27"/>
+<text xml:space="preserve" text-anchor="middle" x="5651.03" y="-5109.09" font-family="Arial" font-size="9.00">желание</text>
+</g>
+<!-- Подпись &quot;Поднимите шарик&quot;&#45;&gt;посетитель -->
+<g id="edge78" class="edge">
+<title>Подпись "Поднимите шарик"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5692.93,-6011.23C5678.23,-5728.53 5640.17,-4607.42 5631.8,-4223.56"/>
+<polygon fill="black" stroke="black" points="5638.8,-4223.68 5631.38,-4203.83 5624.8,-4223.98 5638.8,-4223.68"/>
+<text xml:space="preserve" text-anchor="middle" x="5637.36" y="-5120.09" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Поднимите шарик&quot;&#45;&gt;скорость -->
+<g id="edge75" class="edge">
+<title>Подпись "Поднимите шарик"-&gt;скорость</title>
+<path fill="none" stroke="black" d="M5522.51,-6139.64C5508.91,-6144.54 5495.28,-6149.45 5481.92,-6154.26"/>
+<polygon fill="black" stroke="black" points="5479.77,-6147.59 5463.33,-6160.95 5484.52,-6160.76 5479.77,-6147.59"/>
+<text xml:space="preserve" text-anchor="middle" x="5477.21" y="-6149.65" font-family="Arial" font-size="9.00">управление</text>
+</g>
+<!-- Подпись &quot;Каменное эхо&quot;&#45;&gt;посетитель -->
+<g id="edge80" class="edge">
+<title>Подпись "Каменное эхо"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M972.39,-3705.84C1993.72,-3805.92 4655.15,-4033.27 5421.62,-4084.61"/>
+<polygon fill="black" stroke="black" points="5421,-4091.59 5441.42,-4085.93 5421.92,-4077.62 5421,-4091.59"/>
+<text xml:space="preserve" text-anchor="middle" x="3167" y="-3897.93" font-family="Arial" font-size="9.00">просовывание</text>
+</g>
+<!-- Подпись &quot;Каменное эхо&quot;&#45;&gt;посетитель -->
+<g id="edge81" class="edge">
+<title>Подпись "Каменное эхо"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M1073.11,-3690.05C2160.79,-3772.07 4689.19,-3990.36 5426.03,-4067.59"/>
+<polygon fill="black" stroke="black" points="5425.18,-4074.54 5445.8,-4069.68 5426.65,-4060.62 5425.18,-4074.54"/>
+<text xml:space="preserve" text-anchor="middle" x="3219.56" y="-3870.72" font-family="Arial" font-size="9.00">произнесение</text>
+</g>
+<!-- Подпись &quot;Каменное эхо&quot;&#45;&gt;посетитель -->
+<g id="edge82" class="edge">
+<title>Подпись "Каменное эхо"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M1042.19,-3696.02C2111.09,-3783.85 4677.34,-4004.43 5423.95,-4073.19"/>
+<polygon fill="black" stroke="black" points="5423.18,-4080.15 5443.73,-4075.01 5424.46,-4066.2 5423.18,-4080.15"/>
+<text xml:space="preserve" text-anchor="middle" x="3213.07" y="-3876.5" font-family="Arial" font-size="9.00">слышание</text>
+</g>
+<!-- Подпись &quot;Каменное эхо&quot;&#45;&gt;посетитель -->
+<g id="edge83" class="edge">
+<title>Подпись "Каменное эхо"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M1008.22,-3701.28C2055.13,-3795.1 4666.57,-4018.77 5422.76,-4078.89"/>
+<polygon fill="black" stroke="black" points="5422.05,-4085.86 5442.54,-4080.46 5423.16,-4071.9 5422.05,-4085.86"/>
+<text xml:space="preserve" text-anchor="middle" x="3190.49" y="-3881.98" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge87" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3037.58,-6819.01C3425.3,-6455.43 5126.41,-4680.1 5540.28,-4208.7"/>
+<polygon fill="black" stroke="black" points="5545.27,-4213.62 5553.17,-4193.95 5534.73,-4204.4 5545.27,-4213.62"/>
+<text xml:space="preserve" text-anchor="middle" x="4273.92" y="-5516.56" font-family="Arial" font-size="9.00">взятие</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge88" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3006.83,-6818.78C3317.25,-6451.92 5038.04,-4653.14 5510.98,-4198.26"/>
+<polygon fill="black" stroke="black" points="5515.59,-4203.54 5525.18,-4184.65 5505.9,-4193.43 5515.59,-4203.54"/>
+<text xml:space="preserve" text-anchor="middle" x="4236.4" y="-5511.22" font-family="Arial" font-size="9.00">положение</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge89" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3012.57,-6818.69C3338.69,-6452.71 5054.58,-4659.88 5516.49,-4200.93"/>
+<polygon fill="black" stroke="black" points="5521.39,-4205.93 5530.67,-4186.88 5511.53,-4195.99 5521.39,-4205.93"/>
+<text xml:space="preserve" text-anchor="middle" x="4242.03" y="-5512.51" font-family="Arial" font-size="9.00">начинание</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge91" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3018.2,-6819.01C3359.25,-6454.45 5072.58,-4665.01 5522.6,-4202.91"/>
+<polygon fill="black" stroke="black" points="5527.44,-4207.97 5536.38,-4188.76 5517.41,-4198.2 5527.44,-4207.97"/>
+<text xml:space="preserve" text-anchor="middle" x="4250.4" y="-5513.66" font-family="Arial" font-size="9.00">измнение</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge92" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3024.34,-6819.06C3380.91,-6455.09 5090.79,-4669.85 5528.67,-4204.78"/>
+<polygon fill="black" stroke="black" points="5533.45,-4209.91 5542.06,-4190.55 5523.25,-4200.32 5533.45,-4209.91"/>
+<text xml:space="preserve" text-anchor="middle" x="4251.5" y="-5514.62" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;посетитель -->
+<g id="edge93" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3031.02,-6818.83C3403.58,-6454.73 5108.35,-4675.28 5534.38,-4206.9"/>
+<polygon fill="black" stroke="black" points="5539.43,-4211.76 5547.68,-4192.25 5529.06,-4202.36 5539.43,-4211.76"/>
+<text xml:space="preserve" text-anchor="middle" x="4257.7" y="-5515.57" font-family="Arial" font-size="9.00">угадывание</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;труба -->
+<g id="edge95" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;труба</title>
+<path fill="none" stroke="black" d="M3538.93,-6843.85C3590.83,-6840.25 3639.11,-6836.9 3679.98,-6834.07"/>
+<polygon fill="black" stroke="black" points="3680.3,-6841.06 3699.77,-6832.7 3679.34,-6827.1 3680.3,-6841.06"/>
+<text xml:space="preserve" text-anchor="middle" x="3584.45" y="-6841.66" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot;&#45;&gt;кнопка -->
+<g id="edge85" class="edge">
+<title>Подпись "Воздушный лабиринт"-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3030.91,-6818.83C3138.89,-6720.94 3341.78,-6536.99 3450.88,-6438.08"/>
+<polygon fill="black" stroke="black" points="3455.36,-6443.47 3465.48,-6424.85 3445.96,-6433.1 3455.36,-6443.47"/>
+<text xml:space="preserve" text-anchor="middle" x="3223.4" y="-6631.15" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Аэробаскетбол&quot;&#45;&gt;посетитель -->
+<g id="edge97" class="edge">
+<title>Подпись "Аэробаскетбол"-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3961.16,-7805.71C4159.66,-7364.45 5307.19,-4813.62 5575.08,-4218.13"/>
+<polygon fill="black" stroke="black" points="5581.42,-4221.09 5583.24,-4199.98 5568.65,-4215.35 5581.42,-4221.09"/>
+<text xml:space="preserve" text-anchor="middle" x="4748.12" y="-6014.62" font-family="Arial" font-size="9.00">действие</text>
+</g>
+<!-- Подпись &quot;Аэробаскетбол&quot;&#45;&gt;труба -->
+<g id="edge101" class="edge">
+<title>Подпись "Аэробаскетбол"-&gt;труба</title>
+<path fill="none" stroke="black" d="M3927.54,-7805.44C3910.5,-7628.19 3852.16,-7137.81 3823.13,-6925.46"/>
+<polygon fill="black" stroke="black" points="3830.08,-6924.64 3820.41,-6905.78 3816.21,-6926.55 3830.08,-6924.64"/>
+<text xml:space="preserve" text-anchor="middle" x="3850.33" y="-7357.35" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Аэробаскетбол&quot;&#45;&gt;труба -->
+<g id="edge102" class="edge">
+<title>Подпись "Аэробаскетбол"-&gt;труба</title>
+<path fill="none" stroke="black" d="M3920.52,-7805.48C3895.23,-7628.36 3836.48,-7138.43 3814.75,-6925.85"/>
+<polygon fill="black" stroke="black" points="3821.74,-6925.35 3812.77,-6906.15 3807.81,-6926.75 3821.74,-6925.35"/>
+<text xml:space="preserve" text-anchor="middle" x="3842.63" y="-7368.36" font-family="Arial" font-size="9.00">отклонение</text>
+</g>
+<!-- Контактная стена&#45;&gt;посетитель -->
+<g id="edge1" class="edge">
+<title>Контактная стена-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3746.25,-625.46C3976.07,-1048.39 5257.21,-3406.01 5564.65,-3971.78"/>
+<polygon fill="black" stroke="black" points="5558.33,-3974.8 5574.03,-3989.03 5570.63,-3968.12 5558.33,-3974.8"/>
+<text xml:space="preserve" text-anchor="middle" x="4620.45" y="-2301.32" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Механическая волна&#45;&gt;посетитель -->
+<g id="edge7" class="edge">
+<title>Механическая волна-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5700.32,-7153.86C5691.52,-6765.34 5645.99,-4756.28 5633.93,-4223.6"/>
+<polygon fill="black" stroke="black" points="5640.93,-4223.66 5633.48,-4203.82 5626.93,-4223.98 5640.93,-4223.66"/>
+<text xml:space="preserve" text-anchor="middle" x="5632.12" y="-5691.43" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Механическая волна&#45;&gt;движение -->
+<g id="edge5" class="edge">
+<title>Механическая волна-&gt;движение</title>
+<path fill="none" stroke="black" d="M5561.2,-7156.35C5540.37,-7147.05 5519.01,-7137.51 5498.48,-7128.34"/>
+<polygon fill="black" stroke="black" points="5501.59,-7122.06 5480.47,-7120.3 5495.88,-7134.84 5501.59,-7122.06"/>
+<text xml:space="preserve" text-anchor="middle" x="5504.84" y="-7145.04" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Аэрохоккей&#45;&gt;посетитель -->
+<g id="edge17" class="edge">
+<title>Аэрохоккей-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3306.83,-5477.89C3689.14,-5250.23 5030.63,-4451.36 5481.72,-4182.74"/>
+<polygon fill="black" stroke="black" points="5485.06,-4188.9 5498.66,-4172.65 5477.89,-4176.87 5485.06,-4188.9"/>
+<text xml:space="preserve" text-anchor="middle" x="4359.27" y="-4833.02" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэрохоккей&#45;&gt;кнопка -->
+<g id="edge15" class="edge">
+<title>Аэрохоккей-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3229.26,-5604.36C3287.79,-5756.2 3432.81,-6132.47 3495.32,-6294.68"/>
+<polygon fill="black" stroke="black" points="3488.79,-6297.18 3502.51,-6313.32 3501.85,-6292.14 3488.79,-6297.18"/>
+<text xml:space="preserve" text-anchor="middle" x="3327.29" y="-5952.22" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэрохоккей&#45;&gt;стол -->
+<g id="edge13" class="edge">
+<title>Аэрохоккей-&gt;стол</title>
+<path fill="none" stroke="black" d="M3430.26,-5498.81C3547.28,-5477.97 3685.49,-5453.36 3782.26,-5436.14"/>
+<polygon fill="black" stroke="black" points="3783.21,-5443.08 3801.68,-5432.68 3780.76,-5429.29 3783.21,-5443.08"/>
+<text xml:space="preserve" text-anchor="middle" x="3581.25" y="-5470.17" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Скорость реакции&#45;&gt;посетитель -->
+<g id="edge19" class="edge">
+<title>Скорость реакции-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M9176.44,-6069.42C8644.12,-5772.81 6395.49,-4519.84 5784.66,-4179.48"/>
+<polygon fill="black" stroke="black" points="5788.41,-4173.56 5767.53,-4169.94 5781.6,-4185.78 5788.41,-4173.56"/>
+<text xml:space="preserve" text-anchor="middle" x="7445.54" y="-5127.15" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Гигантская пружина&#45;&gt;посетитель -->
+<g id="edge20" class="edge">
+<title>Гигантская пружина-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7687.93,-8552.36C7459.24,-8056.66 5996.58,-4886.29 5688.07,-4217.58"/>
+<polygon fill="black" stroke="black" points="5694.65,-4215.13 5679.91,-4199.9 5681.94,-4221 5694.65,-4215.13"/>
+<text xml:space="preserve" text-anchor="middle" x="6652.99" y="-6387.67" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Волк, баран и капуста&#45;&gt;посетитель -->
+<g id="edge27" class="edge">
+<title>Волк, баран и капуста-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M4074.77,-4280.39C4479.85,-4231.84 5104.48,-4156.96 5425.29,-4118.51"/>
+<polygon fill="black" stroke="black" points="5425.92,-4125.48 5444.94,-4116.15 5424.25,-4111.58 5425.92,-4125.48"/>
+<text xml:space="preserve" text-anchor="middle" x="4715.03" y="-4202.15" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Волк, баран и капуста&#45;&gt;стол -->
+<g id="edge25" class="edge">
+<title>Волк, баран и капуста-&gt;стол</title>
+<path fill="none" stroke="black" d="M3701.91,-4391.66C3734.31,-4581.68 3841.01,-5132.72 3884.86,-5337.07"/>
+<polygon fill="black" stroke="black" points="3877.99,-5338.46 3889.07,-5356.52 3891.68,-5335.49 3877.99,-5338.46"/>
+<text xml:space="preserve" text-anchor="middle" x="3775.88" y="-4867.07" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Волк, баран и капуста&#45;&gt;стол -->
+<g id="edge26" class="edge">
+<title>Волк, баран и капуста-&gt;стол</title>
+<path fill="none" stroke="black" d="M3708.88,-4391.57C3750.1,-4581.48 3856.98,-5132.55 3892.35,-5336.99"/>
+<polygon fill="black" stroke="black" points="3885.41,-5337.9 3895.67,-5356.44 3899.21,-5335.54 3885.41,-5337.9"/>
+<text xml:space="preserve" text-anchor="middle" x="3765.61" y="-4856.18" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Часовой механизм&#45;&gt;посетитель -->
+<g id="edge29" class="edge">
+<title>Часовой механизм-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M9192.68,-3898.78C8353.38,-3944.75 6469.09,-4047.95 5839.97,-4082.4"/>
+<polygon fill="black" stroke="black" points="5839.67,-4075.41 5820.09,-4083.49 5840.44,-4089.39 5839.67,-4075.41"/>
+<text xml:space="preserve" text-anchor="middle" x="7481.32" y="-3993.29" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Невозможные фигуры&#45;&gt;посетитель -->
+<g id="edge34" class="edge">
+<title>Невозможные фигуры-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M2406.35,-1313.75C2835.52,-1683.75 4976.58,-3529.65 5510.31,-3989.81"/>
+<polygon fill="black" stroke="black" points="5505.51,-3994.92 5525.23,-4002.67 5514.65,-3984.31 5505.51,-3994.92"/>
+<text xml:space="preserve" text-anchor="middle" x="3923.32" y="-2654.48" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Гигантская мебель&#45;&gt;посетитель -->
+<g id="edge44" class="edge">
+<title>Гигантская мебель-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3557.64,-4547.32C4024.02,-4445.31 5012.82,-4229.05 5434.16,-4136.9"/>
+<polygon fill="black" stroke="black" points="5435.49,-4143.77 5453.53,-4132.66 5432.5,-4130.1 5435.49,-4143.77"/>
+<text xml:space="preserve" text-anchor="middle" x="4460.89" y="-4344.81" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Гигантская мебель&#45;&gt;стол -->
+<g id="edge41" class="edge">
+<title>Гигантская мебель-&gt;стол</title>
+<path fill="none" stroke="black" d="M3348.85,-4667.38C3455.15,-4818.24 3729.49,-5191.01 3847.92,-5345.63"/>
+<polygon fill="black" stroke="black" points="3842.23,-5349.72 3859.97,-5361.31 3853.33,-5341.19 3842.23,-5349.72"/>
+<text xml:space="preserve" text-anchor="middle" x="3573.38" y="-5009.21" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Гигантская мебель&#45;&gt;стол -->
+<g id="edge42" class="edge">
+<title>Гигантская мебель-&gt;стол</title>
+<path fill="none" stroke="black" d="M3358.36,-4667.23C3473.46,-4817.26 3745.96,-5187.37 3856.19,-5343.38"/>
+<polygon fill="black" stroke="black" points="3850.4,-5347.31 3867.63,-5359.64 3861.85,-5339.26 3850.4,-5347.31"/>
+<text xml:space="preserve" text-anchor="middle" x="3572.27" y="-4997.2" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Гиперболоид вращения&#45;&gt;посетитель -->
+<g id="edge46" class="edge">
+<title>Гиперболоид вращения-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M7952.37,-1703.46C7627.99,-2037.48 6148.75,-3560.69 5737.4,-3984.27"/>
+<polygon fill="black" stroke="black" points="5732.61,-3979.16 5723.7,-3998.38 5742.65,-3988.91 5732.61,-3979.16"/>
+<text xml:space="preserve" text-anchor="middle" x="6809.88" y="-2846.57" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Вязкое трение&#45;&gt;посетитель -->
+<g id="edge51" class="edge">
+<title>Вязкое трение-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M8930.5,-6844.35C8492.38,-6479.13 6300.85,-4652.25 5754.51,-4196.82"/>
+<polygon fill="black" stroke="black" points="5759.07,-4191.51 5739.23,-4184.08 5750.11,-4202.26 5759.07,-4191.51"/>
+<text xml:space="preserve" text-anchor="middle" x="7307.5" y="-5523.28" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Кабина грузовика&#45;&gt;посетитель -->
+<g id="edge58" class="edge">
+<title>Кабина грузовика-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M9152.2,-2585.04C8573.91,-2832.83 6424.75,-3753.73 5801.45,-4020.81"/>
+<polygon fill="black" stroke="black" points="5799.14,-4014.18 5783.52,-4028.49 5804.66,-4027.05 5799.14,-4014.18"/>
+<text xml:space="preserve" text-anchor="middle" x="7441.82" y="-3305.62" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Гидравлический пресс&#45;&gt;посетитель -->
+<g id="edge64" class="edge">
+<title>Гидравлический пресс-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M5206.68,-130.38C5255.86,-589.72 5549.68,-3334.38 5617.17,-3964.82"/>
+<polygon fill="black" stroke="black" points="5610.18,-3965.27 5619.27,-3984.41 5624.1,-3963.78 5610.18,-3965.27"/>
+<text xml:space="preserve" text-anchor="middle" x="5376.92" y="-2050.3" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэропушка&#45;&gt;посетитель -->
+<g id="edge74" class="edge">
+<title>Аэропушка-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3341.82,-5341.62C3726.78,-5131.78 5024.7,-4424.32 5475.32,-4178.7"/>
+<polygon fill="black" stroke="black" points="5478.67,-4184.85 5492.88,-4169.13 5471.97,-4172.55 5478.67,-4184.85"/>
+<text xml:space="preserve" text-anchor="middle" x="4373.56" y="-4762.86" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэропушка&#45;&gt;кнопка -->
+<g id="edge73" class="edge">
+<title>Аэропушка-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3252.54,-5466.12C3304.54,-5638.97 3445.8,-6108.56 3501.63,-6294.14"/>
+<polygon fill="black" stroke="black" points="3494.87,-6295.97 3507.33,-6313.1 3508.27,-6291.93 3494.87,-6295.97"/>
+<text xml:space="preserve" text-anchor="middle" x="3359.58" y="-5882.83" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Аэропушка&#45;&gt;стол -->
+<g id="edge70" class="edge">
+<title>Аэропушка-&gt;стол</title>
+<path fill="none" stroke="black" d="M3491.29,-5406.19C3588.98,-5408.16 3695.89,-5410.32 3776.36,-5411.95"/>
+<polygon fill="black" stroke="black" points="3776.15,-5418.95 3796.29,-5412.35 3776.43,-5404.95 3776.15,-5418.95"/>
+<text xml:space="preserve" text-anchor="middle" x="3608.82" y="-5411.77" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Поднимите шарик&#45;&gt;посетитель -->
+<g id="edge79" class="edge">
+<title>Поднимите шарик-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M9107.28,-4599.45C8362.95,-4491.19 6461.24,-4214.6 5834.63,-4123.47"/>
+<polygon fill="black" stroke="black" points="5836.08,-4116.61 5815.28,-4120.65 5834.06,-4130.46 5836.08,-4116.61"/>
+<text xml:space="preserve" text-anchor="middle" x="7435.95" y="-4364.16" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Каменное эхо&#45;&gt;посетитель -->
+<g id="edge84" class="edge">
+<title>Каменное эхо-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M6793.86,-1436.56C6638.45,-1791.71 5894.05,-3492.73 5685.44,-3969.42"/>
+<polygon fill="black" stroke="black" points="5679.14,-3966.35 5677.53,-3987.48 5691.97,-3971.97 5679.14,-3966.35"/>
+<text xml:space="preserve" text-anchor="middle" x="6219.65" y="-2705.69" font-family="Arial" font-size="9.00">ожидание</text>
+</g>
+<!-- Воздушный лабиринт&#45;&gt;посетитель -->
+<g id="edge96" class="edge">
+<title>Воздушный лабиринт-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M9279.63,-5321.87C8635.98,-5105.24 6460.51,-4373.04 5813.78,-4155.37"/>
+<polygon fill="black" stroke="black" points="5816.34,-4148.85 5795.15,-4149.1 5811.87,-4162.12 5816.34,-4148.85"/>
+<text xml:space="preserve" text-anchor="middle" x="7511.7" y="-4741.32" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэробаскетбол&#45;&gt;посетитель -->
+<g id="edge107" class="edge">
+<title>Аэробаскетбол-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3151.57,-6997.49C3474.5,-6619.3 5116.64,-4696.2 5534.27,-4207.11"/>
+<polygon fill="black" stroke="black" points="5539.37,-4211.91 5547.04,-4192.16 5528.73,-4202.82 5539.37,-4211.91"/>
+<text xml:space="preserve" text-anchor="middle" x="4307.91" y="-5605" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Аэробаскетбол&#45;&gt;труба -->
+<g id="edge104" class="edge">
+<title>Аэробаскетбол-&gt;труба</title>
+<path fill="none" stroke="black" d="M3284.43,-7005.85C3414.18,-6963.86 3582.45,-6907.44 3692.49,-6868.86"/>
+<polygon fill="black" stroke="black" points="3694.71,-6875.5 3711.25,-6862.25 3690.06,-6862.29 3694.71,-6875.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3468.46" y="-6940.05" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Аэробаскетбол&#45;&gt;труба -->
+<g id="edge106" class="edge">
+<title>Аэробаскетбол-&gt;труба</title>
+<path fill="none" stroke="black" d="M3255.27,-7003.16C3386.07,-6957.97 3568.6,-6897.31 3687.27,-6859.72"/>
+<polygon fill="black" stroke="black" points="3689.16,-6866.46 3706.13,-6853.77 3684.95,-6853.11 3689.16,-6866.46"/>
+<text xml:space="preserve" text-anchor="middle" x="3443.76" y="-6934.14" font-family="Arial" font-size="9.00">воздействие</text>
+</g>
+<!-- Аэробаскетбол&#45;&gt;кнопка -->
+<g id="edge103" class="edge">
+<title>Аэробаскетбол-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3136.58,-6997.23C3216.57,-6868.21 3394.89,-6580.59 3479.08,-6444.79"/>
+<polygon fill="black" stroke="black" points="3484.93,-6448.64 3489.52,-6427.95 3473.03,-6441.26 3484.93,-6448.64"/>
+<text xml:space="preserve" text-anchor="middle" x="3290.33" y="-6723.71" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- движение&#45;&gt;схема -->
+<g id="edge6" class="edge">
+<title>движение-&gt;схема</title>
+<path fill="none" stroke="black" d="M5311.36,-7017.34C5187.5,-6905.45 4901.53,-6647.11 4736.9,-6498.39"/>
+<polygon fill="black" stroke="black" points="4742.01,-6493.58 4722.48,-6485.36 4732.62,-6503.97 4742.01,-6493.58"/>
+<text xml:space="preserve" text-anchor="middle" x="4996.62" y="-6760.57" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- кнопка&#45;&gt;схема -->
+<g id="edge10" class="edge">
+<title>кнопка-&gt;схема</title>
+<path fill="none" stroke="black" d="M3677.69,-6373.4C3881.05,-6376.47 4239.16,-6381.87 4448.69,-6385.04"/>
+<polygon fill="black" stroke="black" points="4448.43,-6392.03 4468.54,-6385.34 4448.65,-6378.04 4448.43,-6392.03"/>
+<text xml:space="preserve" text-anchor="middle" x="4035.68" y="-6381.92" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- кнопка&#45;&gt;рука -->
+<g id="edge16" class="edge">
+<title>кнопка-&gt;рука</title>
+<path fill="none" stroke="black" d="M3508.41,-6427.65C3468.24,-6566.53 3363.97,-6926.97 3308.47,-7118.85"/>
+<polygon fill="black" stroke="black" points="3301.77,-7116.81 3302.94,-7137.96 3315.22,-7120.7 3301.77,-7116.81"/>
+<text xml:space="preserve" text-anchor="middle" x="3375.93" y="-6775.95" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- кнопка&#45;&gt;посетитель -->
+<g id="edge86" class="edge">
+<title>кнопка-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3577.2,-6317.75C3855.28,-6025.46 5158.69,-4616.61 5531.29,-4206.23"/>
+<polygon fill="black" stroke="black" points="5536.45,-4210.96 5544.7,-4191.44 5526.08,-4201.55 5536.45,-4210.96"/>
+<text xml:space="preserve" text-anchor="middle" x="4541.74" y="-5264.69" font-family="Arial" font-size="9.00">агент</text>
+</g>
+<!-- кнопка&#45;&gt;труба -->
+<g id="edge66" class="edge">
+<title>кнопка-&gt;труба</title>
+<path fill="none" stroke="black" d="M3559.09,-6426.33C3606.82,-6503.15 3693.81,-6643.17 3751,-6735.21"/>
+<polygon fill="black" stroke="black" points="3744.89,-6738.65 3761.39,-6751.95 3756.79,-6731.27 3744.89,-6738.65"/>
+<text xml:space="preserve" text-anchor="middle" x="3625.04" y="-6583.47" font-family="Arial" font-size="9.00">расположение</text>
+</g>
+<!-- стол&#45;&gt;схема -->
+<g id="edge24" class="edge">
+<title>стол-&gt;схема</title>
+<path fill="none" stroke="black" d="M3942.34,-5467.53C4050.41,-5615.51 4357.8,-6036.45 4516.59,-6253.89"/>
+<polygon fill="black" stroke="black" points="4510.81,-6257.85 4528.26,-6269.88 4522.12,-6249.6 4510.81,-6257.85"/>
+<text xml:space="preserve" text-anchor="middle" x="4201.96" y="-5863.41" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- стол&#45;&gt;посетитель -->
+<g id="edge43" class="edge">
+<title>стол-&gt;посетитель</title>
+<path fill="none" stroke="black" d="M3967.54,-5369.1C4221.4,-5181.29 5161.33,-4463.09 5504.51,-4195.28"/>
+<polygon fill="black" stroke="black" points="5508.73,-4200.87 5520.18,-4183.04 5500.11,-4189.83 5508.73,-4200.87"/>
+<text xml:space="preserve" text-anchor="middle" x="4723.52" y="-4784.89" font-family="Arial" font-size="9.00">агент</text>
+</g>
+<!-- стол&#45;&gt;труба -->
+<g id="edge72" class="edge">
+<title>стол-&gt;труба</title>
+<path fill="none" stroke="black" d="M3899.76,-5471.14C3885.07,-5685.44 3832.75,-6448.76 3813.83,-6724.76"/>
+<polygon fill="black" stroke="black" points="3806.86,-6724.15 3812.48,-6744.58 3820.83,-6725.11 3806.86,-6724.15"/>
+<text xml:space="preserve" text-anchor="middle" x="3844.29" y="-6100.65" font-family="Arial" font-size="9.00">часть</text>
+</g>
+<!-- стол&#45;&gt;кнопка -->
+<g id="edge14" class="edge">
+<title>стол-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3878.05,-5469.89C3809.07,-5632.34 3620.56,-6107.91 3550.93,-6294.61"/>
+<polygon fill="black" stroke="black" points="3544.43,-6292.01 3544.05,-6313.19 3557.56,-6296.87 3544.43,-6292.01"/>
+<text xml:space="preserve" text-anchor="middle" x="3691.99" y="-5884.95" font-family="Arial" font-size="9.00">обладание</text>
+</g>
+<!-- стол&#45;&gt;кнопка -->
+<g id="edge71" class="edge">
+<title>стол-&gt;кнопка</title>
+<path fill="none" stroke="black" d="M3885.03,-5470.63C3824.99,-5633.99 3636.87,-6109.45 3558.95,-6295.35"/>
+<polygon fill="black" stroke="black" points="3552.58,-6292.46 3551.26,-6313.61 3565.48,-6297.9 3552.58,-6292.46"/>
+<text xml:space="preserve" text-anchor="middle" x="3709.49" y="-5885.69" font-family="Arial" font-size="9.00">часть</text>
+</g>
+<!-- скорость&#45;&gt;схема -->
+<g id="edge76" class="edge">
+<title>скорость-&gt;схема</title>
+<path fill="none" stroke="black" d="M5187.41,-6243.85C5066.82,-6274.08 4897.96,-6316.41 4774.75,-6347.29"/>
+<polygon fill="black" stroke="black" points="4773.4,-6340.41 4755.7,-6352.06 4776.8,-6353.99 4773.4,-6340.41"/>
+<text xml:space="preserve" text-anchor="middle" x="4953.58" y="-6298.27" font-family="Arial" font-size="9.00">изображение</text>
+</g>
+<!-- схема -->
+<g id="node1" class="node">
+<title>схема</title>
+<ellipse fill="#b0c4de" stroke="#b3b3b3" cx="4614.18" cy="-6387.54" rx="144" ry="144"/>
+<text xml:space="preserve" text-anchor="middle" x="4614.18" y="-6369.54" font-family="Arial" font-size="60.00">схема</text>
+</g>
+<!-- рука -->
+<g id="node2" class="node">
+<title>рука</title>
+<ellipse fill="#e6e6fa" stroke="#b3b3b3" cx="3272.46" cy="-7243.31" rx="108" ry="108"/>
+<text xml:space="preserve" text-anchor="middle" x="3272.46" y="-7225.31" font-family="Arial" font-size="60.00">рука</text>
+</g>
+<!-- посетитель -->
+<g id="node3" class="node">
+<title>посетитель</title>
+<ellipse fill="#e6e6fa" stroke="#b3b3b3" cx="5630.99" cy="-4093.85" rx="188.07" ry="108"/>
+<text xml:space="preserve" text-anchor="middle" x="5630.99" y="-4075.85" font-family="Arial" font-size="60.00">посетитель</text>
+</g>
+<!-- труба -->
+<g id="node4" class="node">
+<title>труба</title>
+<ellipse fill="#f0f8ff" stroke="#b3b3b3" cx="3806.95" cy="-6825.27" rx="105.84" ry="79.2"/>
+<text xml:space="preserve" text-anchor="middle" x="3806.95" y="-6807.27" font-family="Arial" font-size="60.00">труба</text>
+</g>
+<!-- ожидание -->
+<g id="node5" class="node">
+<title>ожидание</title>
+<ellipse fill="#f0f8ff" stroke="#b3b3b3" cx="8539.09" cy="-2167" rx="163.78" ry="79.2"/>
+<text xml:space="preserve" text-anchor="middle" x="8539.09" y="-2149" font-family="Arial" font-size="60.00">ожидание</text>
+</g>
+<!-- Подпись &quot;Контактная стена&quot; -->
+<g id="node6" class="node">
+<title>Подпись "Контактная стена"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2017.05" cy="-8093.05" rx="679.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2017.05" y="-8072.05" font-family="Arial" font-size="70.00">Подпись "Контактная стена"</text>
+</g>
+<!-- Подпись &quot;Механическая волна&quot; -->
+<g id="node7" class="node">
+<title>Подпись "Механическая волна"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2072.05" cy="-5417.05" rx="734.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2072.05" y="-5396.05" font-family="Arial" font-size="70.00">Подпись "Механическая волна"</text>
+</g>
+<!-- Подпись &quot;Аэрохоккей&quot; -->
+<g id="node8" class="node">
+<title>Подпись "Аэрохоккей"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2125.05" cy="-6225.97" rx="527.77" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2125.05" y="-6204.97" font-family="Arial" font-size="70.00">Подпись "Аэрохоккей"</text>
+</g>
+<!-- Подпись &quot;Скорость реакции&quot; -->
+<g id="node9" class="node">
+<title>Подпись "Скорость реакции"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4464.67" cy="-422.25" rx="679.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4464.67" y="-401.25" font-family="Arial" font-size="70.00">Подпись "Скорость реакции"</text>
+</g>
+<!-- Подпись &quot;Гигантская пружина&quot; -->
+<g id="node10" class="node">
+<title>Подпись "Гигантская пружина"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2072.05" cy="-957.05" rx="734.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2072.05" y="-936.05" font-family="Arial" font-size="70.00">Подпись "Гигантская пружина"</text>
+</g>
+<!-- Подпись &quot;Волк, баран и капуста&quot; -->
+<g id="node11" class="node">
+<title>Подпись "Волк, баран и капуста"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4112.65" cy="-4464.3" rx="775.31" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4112.65" y="-4443.3" font-family="Arial" font-size="70.00">Подпись "Волк, баран и капуста"</text>
+</g>
+<!-- Подпись &quot;Часовой механизм&quot; -->
+<g id="node12" class="node">
+<title>Подпись "Часовой механизм"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5774.17" cy="-779.54" rx="679.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5774.17" y="-758.54" font-family="Arial" font-size="70.00">Подпись "Часовой механизм"</text>
+</g>
+<!-- Подпись &quot;Невозможные фигуры&quot; -->
+<g id="node13" class="node">
+<title>Подпись "Невозможные фигуры"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="7806.56" cy="-775.24" rx="734.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7806.56" y="-754.24" font-family="Arial" font-size="70.00">Подпись "Невозможные фигуры"</text>
+</g>
+<!-- Подпись &quot;Гигантская мебель&quot; -->
+<g id="node14" class="node">
+<title>Подпись "Гигантская мебель"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="6631.4" cy="-215.28" rx="706.55" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6631.4" y="-194.28" font-family="Arial" font-size="70.00">Подпись "Гигантская мебель"</text>
+</g>
+<!-- Подпись &quot;Гиперболоид вращения&quot; -->
+<g id="node15" class="node">
+<title>Подпись "Гиперболоид вращения"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="1679.41" cy="-1820.52" rx="789.06" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1679.41" y="-1799.52" font-family="Arial" font-size="70.00">Подпись "Гиперболоид вращения"</text>
+</g>
+<!-- Подпись &quot;Вязкое трение&quot; -->
+<g id="node16" class="node">
+<title>Подпись "Вязкое трение"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5623.63" cy="-7357.25" rx="596.53" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5623.63" y="-7336.25" font-family="Arial" font-size="70.00">Подпись "Вязкое трение"</text>
+</g>
+<!-- Подпись &quot;Кабина грузовика&quot; -->
+<g id="node17" class="node">
+<title>Подпись "Кабина грузовика"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="8863.16" cy="-3381.12" rx="679.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8863.16" y="-3360.12" font-family="Arial" font-size="70.00">Подпись "Кабина грузовика"</text>
+</g>
+<!-- Подпись &quot;Гидравлический пресс&quot; -->
+<g id="node18" class="node">
+<title>Подпись "Гидравлический пресс"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="8538.96" cy="-7721.37" rx="789.06" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8538.96" y="-7700.37" font-family="Arial" font-size="70.00">Подпись "Гидравлический пресс"</text>
+</g>
+<!-- Подпись &quot;Аэропушка&quot; -->
+<g id="node19" class="node">
+<title>Подпись "Аэропушка"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="3565.95" cy="-7424.36" rx="500.27" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3565.95" y="-7403.36" font-family="Arial" font-size="70.00">Подпись "Аэропушка"</text>
+</g>
+<!-- Подпись &quot;Поднимите шарик&quot; -->
+<g id="node20" class="node">
+<title>Подпись "Поднимите шарик"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5697.75" cy="-6076.54" rx="651.54" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5697.75" y="-6055.54" font-family="Arial" font-size="70.00">Подпись "Поднимите шарик"</text>
+</g>
+<!-- Подпись &quot;Каменное эхо&quot; -->
+<g id="node21" class="node">
+<title>Подпись "Каменное эхо"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="569.03" cy="-3659.57" rx="569.03" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="569.03" y="-3638.57" font-family="Arial" font-size="70.00">Подпись "Каменное эхо"</text>
+</g>
+<!-- Подпись &quot;Воздушный лабиринт&quot; -->
+<g id="node22" class="node">
+<title>Подпись "Воздушный лабиринт"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2958.97" cy="-6884.06" rx="734.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2958.97" y="-6863.06" font-family="Arial" font-size="70.00">Подпись "Воздушный лабиринт"</text>
+</g>
+<!-- Подпись &quot;Аэробаскетбол&quot; -->
+<g id="node23" class="node">
+<title>Подпись "Аэробаскетбол"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="3931.85" cy="-7870.86" rx="610.29" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3931.85" y="-7849.86" font-family="Arial" font-size="70.00">Подпись "Аэробаскетбол"</text>
+</g>
+<!-- Подпись &quot;Правило рычага&quot; -->
+<g id="node24" class="node">
+<title>Подпись "Правило рычага"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="8652.04" cy="-511.05" rx="624.04" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8652.04" y="-490.05" font-family="Arial" font-size="70.00">Подпись "Правило рычага"</text>
+</g>
+<!-- Контактная стена -->
+<g id="node25" class="node">
+<title>Контактная стена</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3710.87" cy="-560.35" rx="437.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3710.87" y="-539.35" font-family="Arial" font-size="70.00">Контактная стена</text>
+</g>
+<!-- Механическая волна -->
+<g id="node26" class="node">
+<title>Механическая волна</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="5701.8" cy="-7219.14" rx="492.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5701.8" y="-7198.14" font-family="Arial" font-size="70.00">Механическая волна</text>
+</g>
+<!-- Аэрохоккей -->
+<g id="node27" class="node">
+<title>Аэрохоккей</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3204.1" cy="-5539.07" rx="286.35" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3204.1" y="-5518.07" font-family="Arial" font-size="70.00">Аэрохоккей</text>
+</g>
+<!-- Скорость реакции -->
+<g id="node28" class="node">
+<title>Скорость реакции</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9289.95" cy="-6132.67" rx="437.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9289.95" y="-6111.67" font-family="Arial" font-size="70.00">Скорость реакции</text>
+</g>
+<!-- Гигантская пружина -->
+<g id="node29" class="node">
+<title>Гигантская пружина</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="7718.03" cy="-8617.62" rx="492.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7718.03" y="-8596.62" font-family="Arial" font-size="70.00">Гигантская пружина</text>
+</g>
+<!-- Волк, баран и капуста -->
+<g id="node30" class="node">
+<title>Волк, баран и капуста</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3692.7" cy="-4326.19" rx="533.89" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3692.7" y="-4305.19" font-family="Arial" font-size="70.00">Волк, баран и капуста</text>
+</g>
+<!-- Часовой механизм -->
+<g id="node31" class="node">
+<title>Часовой механизм</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9603.81" cy="-3876.26" rx="437.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9603.81" y="-3855.26" font-family="Arial" font-size="70.00">Часовой механизм</text>
+</g>
+<!-- Невозможные фигуры -->
+<g id="node32" class="node">
+<title>Невозможные фигуры</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="2331.23" cy="-1248.99" rx="492.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2331.23" y="-1227.99" font-family="Arial" font-size="70.00">Невозможные фигуры</text>
+</g>
+<!-- Гигантская мебель -->
+<g id="node33" class="node">
+<title>Гигантская мебель</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3305.76" cy="-4602.41" rx="465.13" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3305.76" y="-4581.41" font-family="Arial" font-size="70.00">Гигантская мебель</text>
+</g>
+<!-- Гиперболоид вращения -->
+<g id="node34" class="node">
+<title>Гиперболоид вращения</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="8015.54" cy="-1638.42" rx="547.64" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8015.54" y="-1617.42" font-family="Arial" font-size="70.00">Гиперболоид вращения</text>
+</g>
+<!-- Вязкое трение -->
+<g id="node35" class="node">
+<title>Вязкое трение</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9006.95" cy="-6908.08" rx="355.11" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9006.95" y="-6887.08" font-family="Arial" font-size="70.00">Вязкое трение</text>
+</g>
+<!-- Кабина грузовика -->
+<g id="node36" class="node">
+<title>Кабина грузовика</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9296.46" cy="-2523.23" rx="437.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9296.46" y="-2502.23" font-family="Arial" font-size="70.00">Кабина грузовика</text>
+</g>
+<!-- Гидравлический пресс -->
+<g id="node37" class="node">
+<title>Гидравлический пресс</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="5199.69" cy="-65.05" rx="547.64" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5199.69" y="-44.05" font-family="Arial" font-size="70.00">Гидравлический пресс</text>
+</g>
+<!-- Аэропушка -->
+<g id="node38" class="node">
+<title>Аэропушка</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3232.94" cy="-5400.96" rx="258.85" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3232.94" y="-5379.96" font-family="Arial" font-size="70.00">Аэропушка</text>
+</g>
+<!-- Поднимите шарик -->
+<g id="node39" class="node">
+<title>Поднимите шарик</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9410.59" cy="-4643.56" rx="410.12" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9410.59" y="-4622.56" font-family="Arial" font-size="70.00">Поднимите шарик</text>
+</g>
+<!-- Каменное эхо -->
+<g id="node40" class="node">
+<title>Каменное эхо</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="6822.43" cy="-1371.28" rx="327.61" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6822.43" y="-1350.28" font-family="Arial" font-size="70.00">Каменное эхо</text>
+</g>
+<!-- Воздушный лабиринт -->
+<g id="node41" class="node">
+<title>Воздушный лабиринт</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9460.48" cy="-5382.74" rx="492.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9460.48" y="-5361.74" font-family="Arial" font-size="70.00">Воздушный лабиринт</text>
+</g>
+<!-- Аэробаскетбол -->
+<g id="node42" class="node">
+<title>Аэробаскетбол</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3096.27" cy="-7062.25" rx="368.87" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3096.27" y="-7041.25" font-family="Arial" font-size="70.00">Аэробаскетбол</text>
+</g>
+<!-- противостояние -->
+<g id="node43" class="node">
+<title>противостояние</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="1078.42" cy="-2590.11" rx="341.36" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="1078.42" y="-2572.11" font-family="Arial" font-size="60.00">противостояние</text>
+</g>
+<!-- игра -->
+<g id="node44" class="node">
+<title>игра</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="3016.62" cy="-834.62" rx="105.61" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="3016.62" y="-816.62" font-family="Arial" font-size="60.00">игра</text>
+</g>
+<!-- движение -->
+<g id="node45" class="node">
+<title>движение</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="5371.41" cy="-7071.59" rx="199.91" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="5371.41" y="-7053.59" font-family="Arial" font-size="60.00">движение</text>
+</g>
+<!-- кнопка -->
+<g id="node46" class="node">
+<title>кнопка</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="3524.77" cy="-6371.09" rx="152.76" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="3524.77" y="-6353.09" font-family="Arial" font-size="60.00">кнопка</text>
+</g>
+<!-- стол -->
+<g id="node47" class="node">
+<title>стол</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="3903.64" cy="-5414.53" rx="105.61" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="3903.64" y="-5396.53" font-family="Arial" font-size="60.00">стол</text>
+</g>
+<!-- скорость -->
+<g id="node48" class="node">
+<title>скорость</title>
+<ellipse fill="white" stroke="#b3b3b3" cx="5337.78" cy="-6206.16" rx="199.91" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="5337.78" y="-6188.16" font-family="Arial" font-size="60.00">скорость</text>
+</g>
+</g>
+</svg>
