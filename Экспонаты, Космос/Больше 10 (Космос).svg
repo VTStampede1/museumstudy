@@ -1,0 +1,1116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10349pt" height="9232pt" viewBox="0.00 0.00 10349.00 9232.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 9228.3)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-9228.3 10344.79,-9228.3 10344.79,4 -4,4"/>
+<!-- посетитель&#45;&gt;посетитель -->
+<g id="edge53" class="edge">
+<title>посетитель-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5193.43,-4813.74C5193.52,-4813.73 5193.61,-4813.73 5193.69,-4813.72"/>
+<polygon fill="#999999" stroke="#999999" points="5201.61,-4830.16 5193.52,-4810.57 5187.63,-4830.93 5201.61,-4830.16"/>
+<text xml:space="preserve" text-anchor="middle" x="5221.05" y="-4808.7" font-family="Arial" font-size="9.00">цель</text>
+</g>
+<!-- посетитель&#45;&gt;посетитель -->
+<g id="edge81" class="edge">
+<title>посетитель-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5193.02,-4817.28C5215.94,-4816.24 5231.05,-4814.28 5231.05,-4811.4 5231.05,-4809.55 5224.85,-4808.08 5214.36,-4807"/>
+<polygon fill="#999999" stroke="#999999" points="5214.96,-4800.02 5194.53,-4805.62 5214,-4813.99 5214.96,-4800.02"/>
+<text xml:space="preserve" text-anchor="middle" x="5261.05" y="-4808.7" font-family="Arial" font-size="9.00">предметность</text>
+</g>
+<!-- посетитель&#45;&gt;рука -->
+<g id="edge2" class="edge">
+<title>посетитель-&gt;рука</title>
+<path fill="none" stroke="#999999" d="M5159.26,-4727.33C5700.28,-4412.96 7563.08,-3310.32 8036.62,-3023.94"/>
+<polygon fill="#999999" stroke="#999999" points="8040.07,-3030.04 8053.55,-3013.69 8032.82,-3018.06 8040.07,-3030.04"/>
+<text xml:space="preserve" text-anchor="middle" x="6565.43" y="-3878.33" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- посетитель&#45;&gt;рука -->
+<g id="edge55" class="edge">
+<title>посетитель-&gt;рука</title>
+<path fill="none" stroke="#999999" d="M5155.1,-4722.67C5689.58,-4400.49 7554.33,-3296.96 8033.73,-3019.35"/>
+<polygon fill="#999999" stroke="#999999" points="8037.08,-3025.5 8050.89,-3009.42 8030.07,-3013.38 8037.08,-3025.5"/>
+<text xml:space="preserve" text-anchor="middle" x="6584.41" y="-3873.71" font-family="Arial" font-size="9.00">цель</text>
+</g>
+<!-- посетитель&#45;&gt;кнопка -->
+<g id="edge27" class="edge">
+<title>посетитель-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M5171.23,-4742.61C5628.74,-4527.13 6934.53,-3869.22 7332.78,-3652.98"/>
+<polygon fill="#999999" stroke="#999999" points="7336.08,-3659.16 7350.28,-3643.44 7329.37,-3646.87 7336.08,-3659.16"/>
+<text xml:space="preserve" text-anchor="middle" x="6219.5" y="-4200.5" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- посетитель&#45;&gt;кнопка -->
+<g id="edge29" class="edge">
+<title>посетитель-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M5157.65,-4725.99C5598.99,-4488.74 6910.76,-3828.57 7323.63,-3636.41"/>
+<polygon fill="#999999" stroke="#999999" points="7326.32,-3642.88 7341.53,-3628.12 7320.44,-3630.18 7326.32,-3642.88"/>
+<text xml:space="preserve" text-anchor="middle" x="6223.14" y="-4183.9" font-family="Arial" font-size="9.00">мигание</text>
+</g>
+<!-- посетитель&#45;&gt;кнопка -->
+<g id="edge35" class="edge">
+<title>посетитель-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M5162.6,-4731.25C5609.7,-4501.14 6918.2,-3842.39 7326.39,-3642.09"/>
+<polygon fill="#999999" stroke="#999999" points="7329.19,-3648.51 7344.07,-3633.43 7323.03,-3635.94 7329.19,-3648.51"/>
+<text xml:space="preserve" text-anchor="middle" x="6214.49" y="-4189.37" font-family="Arial" font-size="9.00">предметность</text>
+</g>
+<!-- посетитель&#45;&gt;ожидание -->
+<g id="edge5" class="edge">
+<title>посетитель-&gt;ожидание</title>
+<path fill="none" stroke="#999999" d="M5188.08,-4845.69C5958.14,-4994.95 9013.78,-5587.22 9777.12,-5735.17"/>
+<polygon fill="#999999" stroke="#999999" points="9775.78,-5742.04 9796.74,-5738.98 9778.44,-5728.3 9775.78,-5742.04"/>
+<text xml:space="preserve" text-anchor="middle" x="7447.59" y="-5293.13" font-family="Arial" font-size="9.00">характеристика</text>
+</g>
+<!-- кнопка&#45;&gt;посетитель -->
+<g id="edge65" class="edge">
+<title>кнопка-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7348.35,-3637.84C6973.77,-3831.87 5662.41,-4492.46 5185.92,-4727.54"/>
+<polygon fill="#999999" stroke="#999999" points="5183.13,-4721.11 5168.29,-4736.23 5189.32,-4733.67 5183.13,-4721.11"/>
+<text xml:space="preserve" text-anchor="middle" x="6284.64" y="-4185.39" font-family="Arial" font-size="9.00">видение</text>
+</g>
+<!-- кнопка&#45;&gt;рука -->
+<g id="edge50" class="edge">
+<title>кнопка-&gt;рука</title>
+<path fill="none" stroke="#999999" d="M7533.24,-3508.2C7663.34,-3391.02 7913.24,-3165.94 8050.56,-3042.26"/>
+<polygon fill="#999999" stroke="#999999" points="8055.02,-3047.66 8065.2,-3029.07 8045.65,-3037.25 8055.02,-3047.66"/>
+<text xml:space="preserve" text-anchor="middle" x="7759.39" y="-3277.93" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- Подпись &quot;Черная дыра&quot;&#45;&gt;посетитель -->
+<g id="edge1" class="edge">
+<title>Подпись "Черная дыра"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2465.27,-5100.46C3112,-5031.16 4331.04,-4894.68 4810.37,-4837.45"/>
+<polygon fill="#999999" stroke="#999999" points="4811.06,-4844.41 4830.09,-4835.09 4809.4,-4830.51 4811.06,-4844.41"/>
+<text xml:space="preserve" text-anchor="middle" x="3615.32" y="-4971.65" font-family="Arial" font-size="9.00">положение</text>
+</g>
+<!-- Подпись &quot;Черная дыра&quot;&#45;&gt;посетитель -->
+<g id="edge3" class="edge">
+<title>Подпись "Черная дыра"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2425.79,-5095.25C3060.43,-5021.32 4318.36,-4881.28 4808.76,-4830.35"/>
+<polygon fill="#999999" stroke="#999999" points="4809.44,-4837.32 4828.62,-4828.29 4808,-4823.39 4809.44,-4837.32"/>
+<text xml:space="preserve" text-anchor="middle" x="3592.27" y="-4965.5" font-family="Arial" font-size="9.00">отпускание</text>
+</g>
+<!-- Подпись &quot;Конструктор созвездий&quot;&#45;&gt;посетитель -->
+<g id="edge6" class="edge">
+<title>Подпись "Конструктор созвездий"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M985.55,-3362.14C1655.42,-3609.25 4121.88,-4499.11 4823.73,-4746.96"/>
+<polygon fill="#999999" stroke="#999999" points="4821.36,-4753.54 4842.55,-4753.6 4826.02,-4740.34 4821.36,-4753.54"/>
+<text xml:space="preserve" text-anchor="middle" x="2872.13" y="-4057.25" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- Подпись &quot;Конструктор созвездий&quot;&#45;&gt;посетитель -->
+<g id="edge7" class="edge">
+<title>Подпись "Конструктор созвездий"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1002.21,-3361.92C1696.35,-3607 4134.65,-4486.66 4826.75,-4741.68"/>
+<polygon fill="#999999" stroke="#999999" points="4824.11,-4748.17 4845.3,-4748.52 4828.96,-4735.03 4824.11,-4748.17"/>
+<text xml:space="preserve" text-anchor="middle" x="2889.48" y="-4043.7" font-family="Arial" font-size="9.00">пробование</text>
+</g>
+<!-- Подпись &quot;Космодром&quot;&#45;&gt;посетитель -->
+<g id="edge9" class="edge">
+<title>Подпись "Космодром"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6398.15,-532.39C6237.75,-1006.34 5288.75,-3929.13 5060.5,-4650.55"/>
+<polygon fill="#999999" stroke="#999999" points="5053.85,-4648.37 5054.49,-4669.55 5067.2,-4652.59 5053.85,-4648.37"/>
+<text xml:space="preserve" text-anchor="middle" x="5711.82" y="-2594.17" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Космодром&quot;&#45;&gt;посетитель -->
+<g id="edge10" class="edge">
+<title>Подпись "Космодром"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6401.88,-532.66C6254.27,-1007.7 5305.23,-3932.63 5065.89,-4651.8"/>
+<polygon fill="#999999" stroke="#999999" points="5059.26,-4649.55 5059.58,-4670.74 5072.54,-4653.97 5059.26,-4649.55"/>
+<text xml:space="preserve" text-anchor="middle" x="5713.88" y="-2594.93" font-family="Arial" font-size="9.00">ожидание</text>
+</g>
+<!-- Подпись &quot;Космодром&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge11" class="edge">
+<title>Подпись "Космодром"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M6337.54,-531.9C6162.78,-666.83 5758.72,-978.79 5559.84,-1132.34"/>
+<polygon fill="#999999" stroke="#999999" points="5555.74,-1126.66 5544.19,-1144.43 5564.29,-1137.74 5555.74,-1126.66"/>
+<text xml:space="preserve" text-anchor="middle" x="5931.19" y="-834.82" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Открылась бездна. звезд полна&quot;&#45;&gt;посетитель -->
+<g id="edge13" class="edge">
+<title>Подпись "Открылась бездна. звезд полна"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4230.16,-765.09C4311.99,-1222.67 4836.56,-3948.74 4976.82,-4648.02"/>
+<polygon fill="#999999" stroke="#999999" points="4969.95,-4649.38 4980.76,-4667.61 4983.68,-4646.62 4969.95,-4649.38"/>
+<text xml:space="preserve" text-anchor="middle" x="4588.49" y="-2709.26" font-family="Arial" font-size="9.00">видеть</text>
+</g>
+<!-- Подпись &quot;Открылась бездна. звезд полна&quot;&#45;&gt;посетитель -->
+<g id="edge14" class="edge">
+<title>Подпись "Открылась бездна. звезд полна"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4233.99,-765.22C4328.42,-1223.04 4853.29,-3947.19 4982.51,-4647.4"/>
+<polygon fill="#999999" stroke="#999999" points="4975.62,-4648.61 4986.13,-4667.01 4989.39,-4646.08 4975.62,-4648.61"/>
+<text xml:space="preserve" text-anchor="middle" x="4578.24" y="-2698.21" font-family="Arial" font-size="9.00">представлять</text>
+</g>
+<!-- Подпись &quot;Открылась бездна. звезд полна&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge15" class="edge">
+<title>Подпись "Открылась бездна. звезд полна"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M4371.6,-764.44C4598.05,-860.75 5023.01,-1041.48 5264.77,-1144.29"/>
+<polygon fill="#999999" stroke="#999999" points="5261.82,-1150.64 5282.96,-1152.03 5267.3,-1137.76 5261.82,-1150.64"/>
+<text xml:space="preserve" text-anchor="middle" x="4800.68" y="-957.06" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Ящик Вуда&quot;&#45;&gt;посетитель -->
+<g id="edge16" class="edge">
+<title>Подпись "Ящик Вуда"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5903.24,-268.41C5799.98,-760.56 5183.67,-3891.3 5040.72,-4647.27"/>
+<polygon fill="#999999" stroke="#999999" points="5033.84,-4645.97 5037.01,-4666.92 5047.6,-4648.57 5033.84,-4645.97"/>
+<text xml:space="preserve" text-anchor="middle" x="5451.98" y="-2460.54" font-family="Arial" font-size="9.00">ожидание</text>
+</g>
+<!-- Подпись &quot;Ящик Вуда&quot;&#45;&gt;посетитель -->
+<g id="edge17" class="edge">
+<title>Подпись "Ящик Вуда"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5906.8,-268.65C5816.21,-761.79 5200.25,-3893.99 5046.06,-4648.2"/>
+<polygon fill="#999999" stroke="#999999" points="5039.25,-4646.54 5042.1,-4667.54 5052.97,-4649.35 5039.25,-4646.54"/>
+<text xml:space="preserve" text-anchor="middle" x="5435.17" y="-2461.12" font-family="Arial" font-size="9.00">плавное опускание</text>
+</g>
+<!-- Подпись &quot;Ящик Вуда&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge18" class="edge">
+<title>Подпись "Ящик Вуда"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M5887.59,-268.38C5806.97,-441.92 5586.8,-915.83 5490.81,-1122.46"/>
+<polygon fill="#999999" stroke="#999999" points="5484.5,-1119.43 5482.42,-1140.52 5497.2,-1125.33 5484.5,-1119.43"/>
+<text xml:space="preserve" text-anchor="middle" x="5671.7" y="-698.12" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Пневматическая катапульта&quot;&#45;&gt;посетитель -->
+<g id="edge20" class="edge">
+<title>Подпись "Пневматическая катапульта"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4583.76,-406.79C4624.16,-890.07 4915.08,-3904.02 4992.46,-4646.34"/>
+<polygon fill="#999999" stroke="#999999" points="4985.49,-4646.96 4994.53,-4666.13 4999.42,-4645.51 4985.49,-4646.96"/>
+<text xml:space="preserve" text-anchor="middle" x="4755.61" y="-2529.26" font-family="Arial" font-size="9.00">использование</text>
+</g>
+<!-- Подпись &quot;Пневматическая катапульта&quot;&#45;&gt;посетитель -->
+<g id="edge21" class="edge">
+<title>Подпись "Пневматическая катапульта"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4587.33,-406.45C4640.22,-888.59 4931.85,-3903.24 4997.99,-4646.11"/>
+<polygon fill="#999999" stroke="#999999" points="4991,-4646.61 4999.74,-4665.92 5004.95,-4645.38 4991,-4646.61"/>
+<text xml:space="preserve" text-anchor="middle" x="4767.65" y="-2518.18" font-family="Arial" font-size="9.00">отпускание</text>
+</g>
+<!-- Подпись &quot;Пневматическая катапульта&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge22" class="edge">
+<title>Подпись "Пневматическая катапульта"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M4643.25,-406.31C4795.3,-560.8 5178.56,-950.2 5354.37,-1128.83"/>
+<polygon fill="#999999" stroke="#999999" points="5349.12,-1133.47 5368.14,-1142.82 5359.1,-1123.65 5349.12,-1133.47"/>
+<text xml:space="preserve" text-anchor="middle" x="4981.3" y="-770.27" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Ледяные тела&quot;&#45;&gt;посетитель -->
+<g id="edge24" class="edge">
+<title>Подпись "Ледяные тела"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1134.4,-4441.25C2053.14,-4528.97 4150.34,-4729.21 4809.22,-4792.12"/>
+<polygon fill="#999999" stroke="#999999" points="4808.09,-4799.04 4828.67,-4793.97 4809.42,-4785.1 4808.09,-4799.04"/>
+<text xml:space="preserve" text-anchor="middle" x="2946.81" y="-4619.39" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Замерзание воды&quot;&#45;&gt;посетитель -->
+<g id="edge25" class="edge">
+<title>Подпись "Замерзание воды"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M9189.08,-6760.71C8577.57,-6462.36 5910.73,-5214.26 5190.82,-4889.05"/>
+<polygon fill="#999999" stroke="#999999" points="5193.86,-4882.74 5172.75,-4880.9 5188.1,-4895.5 5193.86,-4882.74"/>
+<text xml:space="preserve" text-anchor="middle" x="7177.45" y="-5816.78" font-family="Arial" font-size="9.00">взять</text>
+</g>
+<!-- Подпись &quot;Замерзание воды&quot;&#45;&gt;посетитель -->
+<g id="edge26" class="edge">
+<title>Подпись "Замерзание воды"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M9165.76,-6761.17C8510.57,-6466.49 5884.78,-5238.06 5183.89,-4898.57"/>
+<polygon fill="#999999" stroke="#999999" points="5187.12,-4892.35 5166.07,-4889.93 5181.01,-4904.95 5187.12,-4892.35"/>
+<text xml:space="preserve" text-anchor="middle" x="7157.32" y="-5832.57" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Замерзание воды&quot;&#45;&gt;посетитель -->
+<g id="edge28" class="edge">
+<title>Подпись "Замерзание воды"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M9177.79,-6760.93C8544.5,-6464.62 5898.17,-5226.41 5187.5,-4893.9"/>
+<polygon fill="#999999" stroke="#999999" points="5190.5,-4887.57 5169.42,-4885.44 5184.57,-4900.25 5190.5,-4887.57"/>
+<text xml:space="preserve" text-anchor="middle" x="7162.64" y="-5819.31" font-family="Arial" font-size="9.00">ожидание</text>
+</g>
+<!-- Подпись &quot;Микро/макро&quot;&#45;&gt;посетитель -->
+<g id="edge31" class="edge">
+<title>Подпись "Микро/макро"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M8600.02,-7454.84C8126,-7098.12 5786.24,-5372.63 5163.61,-4920.19"/>
+<polygon fill="#999999" stroke="#999999" points="5168.09,-4914.8 5147.8,-4908.71 5159.87,-4926.12 5168.09,-4914.8"/>
+<text xml:space="preserve" text-anchor="middle" x="6861.81" y="-6179.41" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Подпись &quot;Микро/макро&quot;&#45;&gt;посетитель -->
+<g id="edge32" class="edge">
+<title>Подпись "Микро/макро"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M8592.84,-7455.15C8101.82,-7100.24 5773.09,-5383.41 5159.6,-4924.42"/>
+<polygon fill="#999999" stroke="#999999" points="5163.81,-4918.82 5143.6,-4912.44 5155.42,-4930.03 5163.81,-4918.82"/>
+<text xml:space="preserve" text-anchor="middle" x="6853.72" y="-6192.49" font-family="Arial" font-size="9.00">остановка</text>
+</g>
+<!-- Подпись &quot;Звук в вакууме&quot;&#45;&gt;посетитель -->
+<g id="edge34" class="edge">
+<title>Подпись "Звук в вакууме"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7183.55,-4633.27C6577.33,-4675.68 5625.06,-4750.08 5212.69,-4788.36"/>
+<polygon fill="#999999" stroke="#999999" points="5212.15,-4781.38 5192.89,-4790.21 5213.45,-4795.32 5212.15,-4781.38"/>
+<text xml:space="preserve" text-anchor="middle" x="6180.62" y="-4713.52" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Звук в вакууме&quot;&#45;&gt;посетитель -->
+<g id="edge36" class="edge">
+<title>Подпись "Звук в вакууме"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7277.6,-4647.46C6681.41,-4698.35 5649.88,-4776.74 5214.46,-4803.32"/>
+<polygon fill="#999999" stroke="#999999" points="5214.29,-4796.31 5194.75,-4804.51 5215.13,-4810.29 5214.29,-4796.31"/>
+<text xml:space="preserve" text-anchor="middle" x="6221.03" y="-4728.09" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Звук в вакууме&quot;&#45;&gt;посетитель -->
+<g id="edge37" class="edge">
+<title>Подпись "Звук в вакууме"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7227.63,-4640.95C6624.97,-4687.3 5636.79,-4763.29 5213.71,-4795.82"/>
+<polygon fill="#999999" stroke="#999999" points="5213.38,-4788.83 5193.98,-4797.34 5214.45,-4802.79 5213.38,-4788.83"/>
+<text xml:space="preserve" text-anchor="middle" x="6200.67" y="-4721.09" font-family="Arial" font-size="9.00">слышание</text>
+</g>
+<!-- Подпись &quot;Звук в вакууме&quot;&#45;&gt;кнопка -->
+<g id="edge38" class="edge">
+<title>Подпись "Звук в вакууме"-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M7706.43,-4537.48C7661.56,-4370.94 7542.28,-3928.15 7483.37,-3709.46"/>
+<polygon fill="#999999" stroke="#999999" points="7490.13,-3707.65 7478.17,-3690.16 7476.61,-3711.29 7490.13,-3707.65"/>
+<text xml:space="preserve" text-anchor="middle" x="7577.39" y="-4126.17" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Калейдоскоп&quot;&#45;&gt;посетитель -->
+<g id="edge40" class="edge">
+<title>Подпись "Калейдоскоп"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5177.36,-130.28C5153.03,-631.49 5036.46,-3872.45 5014.44,-4645.86"/>
+<polygon fill="#999999" stroke="#999999" points="5007.44,-4645.5 5013.88,-4665.69 5021.44,-4645.9 5007.44,-4645.5"/>
+<text xml:space="preserve" text-anchor="middle" x="5075.89" y="-2390.77" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Подпись &quot;Калейдоскоп&quot;&#45;&gt;посетитель -->
+<g id="edge41" class="edge">
+<title>Подпись "Калейдоскоп"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5180.84,-130.41C5169.2,-632 5053.29,-3872.17 5019.82,-4645.73"/>
+<polygon fill="#999999" stroke="#999999" points="5012.83,-4645.29 5018.96,-4665.57 5026.82,-4645.89 5012.83,-4645.29"/>
+<text xml:space="preserve" text-anchor="middle" x="5075.33" y="-2379.97" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Калейдоскоп&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge42" class="edge">
+<title>Подпись "Калейдоскоп"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M5196.37,-130.51C5240.33,-323.29 5369.54,-889.86 5422.26,-1121.03"/>
+<polygon fill="#999999" stroke="#999999" points="5415.36,-1122.26 5426.63,-1140.2 5429.01,-1119.14 5415.36,-1122.26"/>
+<text xml:space="preserve" text-anchor="middle" x="5291.81" y="-628.47" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Кольцевой ускоритель&quot;&#45;&gt;посетитель -->
+<g id="edge45" class="edge">
+<title>Подпись "Кольцевой ускоритель"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6725.15,-2510.74C6481.34,-2828.39 5445.15,-4216.27 5113.62,-4668.44"/>
+<polygon fill="#999999" stroke="#999999" points="5108.02,-4664.24 5101.85,-4684.51 5119.31,-4672.52 5108.02,-4664.24"/>
+<text xml:space="preserve" text-anchor="middle" x="5901.88" y="-3592.29" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Кольцевой ускоритель&quot;&#45;&gt;посетитель -->
+<g id="edge46" class="edge">
+<title>Подпись "Кольцевой ускоритель"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6731.1,-2510.84C6500.1,-2829.48 5460.32,-4223.27 5119.63,-4671.82"/>
+<polygon fill="#999999" stroke="#999999" points="5114.28,-4667.28 5107.75,-4687.44 5125.43,-4675.76 5114.28,-4667.28"/>
+<text xml:space="preserve" text-anchor="middle" x="5910.36" y="-3594.03" font-family="Arial" font-size="9.00">разгон</text>
+</g>
+<!-- Подпись &quot;Кольцевой ускоритель&quot;&#45;&gt;кнопка -->
+<g id="edge47" class="edge">
+<title>Подпись "Кольцевой ускоритель"-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M6815.45,-2510.8C6925.65,-2697.28 7242.9,-3234.09 7382.35,-3470.06"/>
+<polygon fill="#999999" stroke="#999999" points="7376.31,-3473.6 7392.51,-3487.26 7388.36,-3466.48 7376.31,-3473.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7073.89" y="-2993.13" font-family="Arial" font-size="9.00">управление</text>
+</g>
+<!-- Подпись &quot;Кольцевой ускоритель&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge48" class="edge">
+<title>Подпись "Кольцевой ускоритель"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M6706.21,-2380.54C6484.32,-2176.53 5801.01,-1548.25 5544.09,-1312.02"/>
+<polygon fill="#999999" stroke="#999999" points="5549.09,-1307.12 5529.63,-1298.73 5539.62,-1317.42 5549.09,-1307.12"/>
+<text xml:space="preserve" text-anchor="middle" x="6107.64" y="-1848.98" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge52" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1839,-7421.92C2311.73,-7071.33 4342.91,-5410.95 4880.44,-4937.4"/>
+<polygon fill="#999999" stroke="#999999" points="4884.79,-4942.89 4895.15,-4924.41 4875.53,-4932.4 4884.79,-4942.89"/>
+<text xml:space="preserve" text-anchor="middle" x="3334.71" y="-6182.36" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge54" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1803.12,-7421.82C2191.75,-7066.13 4269.58,-5364.6 4856.74,-4918.4"/>
+<polygon fill="#999999" stroke="#999999" points="4860.75,-4924.14 4872.47,-4906.48 4852.3,-4912.98 4860.75,-4924.14"/>
+<text xml:space="preserve" text-anchor="middle" x="3309.93" y="-6172.81" font-family="Arial" font-size="9.00">внимание</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge56" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1809.56,-7421.86C2214.93,-7067.79 4283.65,-5374.53 4861.28,-4922.44"/>
+<polygon fill="#999999" stroke="#999999" points="4865.29,-4928.19 4876.74,-4910.36 4856.67,-4917.16 4865.29,-4928.19"/>
+<text xml:space="preserve" text-anchor="middle" x="3312.92" y="-6174.85" font-family="Arial" font-size="9.00">положение</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge57" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1816.64,-7421.66C2239.4,-7068.41 4298.03,-5384.13 4865.88,-4926.41"/>
+<polygon fill="#999999" stroke="#999999" points="4869.88,-4932.18 4881.06,-4914.18 4861.1,-4921.28 4869.88,-4932.18"/>
+<text xml:space="preserve" text-anchor="middle" x="3316.25" y="-6176.74" font-family="Arial" font-size="9.00">поднесение</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge58" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1823.56,-7421.88C2262.58,-7070.12 4312.14,-5393.85 4870.44,-4930.37"/>
+<polygon fill="#999999" stroke="#999999" points="4874.84,-4935.82 4885.75,-4917.65 4865.89,-4925.05 4874.84,-4935.82"/>
+<text xml:space="preserve" text-anchor="middle" x="3332" y="-6178.83" font-family="Arial" font-size="9.00">нагрев</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot;&#45;&gt;посетитель -->
+<g id="edge59" class="edge">
+<title>Подпись "Инфракрасное видение"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1831.15,-7421.86C2287.16,-7070.71 4327.56,-5402.42 4875.46,-4933.9"/>
+<polygon fill="#999999" stroke="#999999" points="4879.83,-4939.37 4890.47,-4921.04 4870.73,-4928.74 4879.83,-4939.37"/>
+<text xml:space="preserve" text-anchor="middle" x="3328.3" y="-6180.58" font-family="Arial" font-size="9.00">охлаждение</text>
+</g>
+<!-- Подпись &quot;На полюсе&quot;&#45;&gt;посетитель -->
+<g id="edge61" class="edge">
+<title>Подпись "На полюсе"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6891.47,-4509.46C6415.39,-4578.2 5586.54,-4707.46 5208.86,-4772.54"/>
+<polygon fill="#999999" stroke="#999999" points="5207.93,-4765.6 5189.42,-4775.9 5210.32,-4779.39 5207.93,-4765.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6030.16" y="-4643.7" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Подпись &quot;На полюсе&quot;&#45;&gt;посетитель -->
+<g id="edge62" class="edge">
+<title>Подпись "На полюсе"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6963.8,-4518.01C6505.74,-4595.03 5612.64,-4733.14 5212.97,-4788.33"/>
+<polygon fill="#999999" stroke="#999999" points="5212.07,-4781.39 5193.21,-4791.04 5213.98,-4795.26 5212.07,-4781.39"/>
+<text xml:space="preserve" text-anchor="middle" x="6068.38" y="-4655.87" font-family="Arial" font-size="9.00">слежение</text>
+</g>
+<!-- Подпись &quot;На полюсе&quot;&#45;&gt;посетитель -->
+<g id="edge63" class="edge">
+<title>Подпись "На полюсе"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6927.53,-4514.16C6459.31,-4586.79 5599.7,-4720.12 5211.18,-4780.38"/>
+<polygon fill="#999999" stroke="#999999" points="5210.13,-4773.46 5191.43,-4783.44 5212.27,-4787.29 5210.13,-4773.46"/>
+<text xml:space="preserve" text-anchor="middle" x="6051.85" y="-4649.97" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;На полюсе&quot;&#45;&gt;кнопка -->
+<g id="edge64" class="edge">
+<title>Подпись "На полюсе"-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M7261.7,-4399.17C7295.25,-4253.49 7376.51,-3900.54 7420.32,-3710.25"/>
+<polygon fill="#999999" stroke="#999999" points="7427.08,-3712.09 7424.75,-3691.03 7413.44,-3708.95 7427.08,-3712.09"/>
+<text xml:space="preserve" text-anchor="middle" x="7323.51" y="-4057.41" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Вес на разных планетах&quot;&#45;&gt;посетитель -->
+<g id="edge68" class="edge">
+<title>Подпись "Вес на разных планетах"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4177.15,-1678.32C4274.11,-2066.19 4804.32,-4064.52 4965.05,-4650.02"/>
+<polygon fill="#999999" stroke="#999999" points="4958.27,-4651.77 4970.32,-4669.2 4971.77,-4648.06 4958.27,-4651.77"/>
+<text xml:space="preserve" text-anchor="middle" x="4543.6" y="-3166.87" font-family="Arial" font-size="9.00">приподнятие</text>
+</g>
+<!-- Подпись &quot;Вес на разных планетах&quot;&#45;&gt;посетитель -->
+<g id="edge69" class="edge">
+<title>Подпись "Вес на разных планетах"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4181.51,-1678.33C4290.46,-2066.05 4820.91,-4062.52 4971.39,-4649.14"/>
+<polygon fill="#999999" stroke="#999999" points="4964.57,-4650.71 4976.31,-4668.35 4978.13,-4647.24 4964.57,-4650.71"/>
+<text xml:space="preserve" text-anchor="middle" x="4553.94" y="-3155.63" font-family="Arial" font-size="9.00">замечание</text>
+</g>
+<!-- Подпись &quot;Вес на разных планетах&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge70" class="edge">
+<title>Подпись "Вес на разных планетах"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M4369.51,-1549.41C4604.04,-1477.79 4984.23,-1361.69 5224.12,-1288.43"/>
+<polygon fill="#999999" stroke="#999999" points="5225.84,-1295.22 5242.93,-1282.69 5221.75,-1281.84 5225.84,-1295.22"/>
+<text xml:space="preserve" text-anchor="middle" x="4766.81" y="-1421.62" font-family="Arial" font-size="9.00">неизменность</text>
+</g>
+<!-- Подпись &quot;Зеркало Архимеда&quot;&#45;&gt;посетитель -->
+<g id="edge72" class="edge">
+<title>Подпись "Зеркало Архимеда"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2081.7,-3906.15C2626.94,-4085.3 4257.05,-4593.02 4818.58,-4758.65"/>
+<polygon fill="#999999" stroke="#999999" points="4816.29,-4765.28 4837.46,-4764.21 4820.25,-4751.85 4816.29,-4765.28"/>
+<text xml:space="preserve" text-anchor="middle" x="3432.64" y="-4335.1" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Зеркало Архимеда&quot;&#45;&gt;посетитель -->
+<g id="edge73" class="edge">
+<title>Подпись "Зеркало Архимеда"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2124.99,-3904.82C2710.53,-4078.45 4282.14,-4568.07 4824.28,-4745.98"/>
+<polygon fill="#999999" stroke="#999999" points="4822.06,-4752.61 4843.24,-4752.21 4826.43,-4739.32 4822.06,-4752.61"/>
+<text xml:space="preserve" text-anchor="middle" x="3454.63" y="-4317.3" font-family="Arial" font-size="9.00">движение</text>
+</g>
+<!-- Подпись &quot;Зеркало Архимеда&quot;&#45;&gt;посетитель -->
+<g id="edge74" class="edge">
+<title>Подпись "Зеркало Архимеда"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2102.7,-3905.59C2668.48,-4081.8 4269.02,-4580.26 4821.14,-4752.21"/>
+<polygon fill="#999999" stroke="#999999" points="4818.9,-4758.85 4840.08,-4758.11 4823.07,-4745.48 4818.9,-4758.85"/>
+<text xml:space="preserve" text-anchor="middle" x="3439.42" y="-4320.8" font-family="Arial" font-size="9.00">попадание</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge78" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4080.52,-1205.91C4158,-1631.49 4763.85,-4011.22 4955.11,-4652.32"/>
+<polygon fill="#999999" stroke="#999999" points="4948.3,-4653.99 4960.76,-4671.13 4961.71,-4649.96 4948.3,-4653.99"/>
+<text xml:space="preserve" text-anchor="middle" x="4495.31" y="-2931.81" font-family="Arial" font-size="9.00">выбирание</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge79" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4100.78,-1205.74C4239.95,-1629.72 4846.45,-3998.23 4984.59,-4647.06"/>
+<polygon fill="#999999" stroke="#999999" points="4977.72,-4648.43 4988.7,-4666.56 4991.42,-4645.54 4977.72,-4648.43"/>
+<text xml:space="preserve" text-anchor="middle" x="4520.18" y="-2918.3" font-family="Arial" font-size="9.00">вставание</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge80" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4096.67,-1205.94C4223.68,-1630.6 4829.8,-4000.22 4978.66,-4647.82"/>
+<polygon fill="#999999" stroke="#999999" points="4971.82,-4649.35 4983.11,-4667.29 4985.47,-4646.23 4971.82,-4649.35"/>
+<text xml:space="preserve" text-anchor="middle" x="4505.16" y="-2918.78" font-family="Arial" font-size="9.00">представление</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge82" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4092.5,-1205.75C4207.06,-1630.1 4813.34,-4002.98 4972.8,-4648.99"/>
+<polygon fill="#999999" stroke="#999999" points="4965.89,-4650.21 4977.47,-4667.95 4979.48,-4646.86 4965.89,-4650.21"/>
+<text xml:space="preserve" text-anchor="middle" x="4512.64" y="-2919.27" font-family="Arial" font-size="9.00">движение</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge83" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4088.49,-1205.94C4190.82,-1631.04 4796.84,-4005.63 4966.9,-4650.03"/>
+<polygon fill="#999999" stroke="#999999" points="4960.02,-4651.4 4971.89,-4668.95 4973.55,-4647.82 4960.02,-4651.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4502.69" y="-2919.89" font-family="Arial" font-size="9.00">повторение</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;посетитель -->
+<g id="edge84" class="edge">
+<title>Подпись "Я - функция"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4084.44,-1205.73C4174.21,-1630.5 4780.21,-4007.89 4960.96,-4651"/>
+<polygon fill="#999999" stroke="#999999" points="4954.12,-4652.53 4966.28,-4669.87 4967.59,-4648.72 4954.12,-4652.53"/>
+<text xml:space="preserve" text-anchor="middle" x="4490.19" y="-2920.26" font-family="Arial" font-size="9.00">регулирование</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge85" class="edge">
+<title>Подпись "Я - функция"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M4542.84,-1168.07C4731.95,-1179.16 4945.56,-1191.68 5117.44,-1201.76"/>
+<polygon fill="#999999" stroke="#999999" points="5116.84,-1208.73 5137.21,-1202.92 5117.66,-1194.76 5116.84,-1208.73"/>
+<text xml:space="preserve" text-anchor="middle" x="4812.64" y="-1187.61" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot;&#45;&gt;посетитель -->
+<g id="edge92" class="edge">
+<title>Подпись "Разговор с инопланетянином"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5425.78,-8235.4C5401.05,-7825.27 5138.35,-5600.51 5043.04,-4975.05"/>
+<polygon fill="#999999" stroke="#999999" points="5049.98,-4974.12 5040.02,-4955.41 5036.14,-4976.25 5049.98,-4974.12"/>
+<text xml:space="preserve" text-anchor="middle" x="5201.9" y="-6597.12" font-family="Arial" font-size="9.00">необходимость</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot;&#45;&gt;посетитель -->
+<g id="edge93" class="edge">
+<title>Подпись "Разговор с инопланетянином"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5409.56,-8235.39C5337.05,-7825.68 5071.99,-5605.13 5018.46,-4977"/>
+<polygon fill="#999999" stroke="#999999" points="5025.46,-4976.63 5016.81,-4957.29 5011.51,-4977.8 5025.46,-4976.63"/>
+<text xml:space="preserve" text-anchor="middle" x="5199.01" y="-6608.9" font-family="Arial" font-size="9.00">взятие</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot;&#45;&gt;посетитель -->
+<g id="edge94" class="edge">
+<title>Подпись "Разговор с инопланетянином"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5413.64,-8235.29C5353.02,-7825.25 5088.59,-5604.19 5024.61,-4976.63"/>
+<polygon fill="#999999" stroke="#999999" points="5031.59,-4976.12 5022.61,-4956.93 5017.66,-4977.53 5031.59,-4976.12"/>
+<text xml:space="preserve" text-anchor="middle" x="5201.62" y="-6597.86" font-family="Arial" font-size="9.00">общение</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot;&#45;&gt;посетитель -->
+<g id="edge95" class="edge">
+<title>Подпись "Разговор с инопланетянином"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5417.71,-8235.2C5368.98,-7824.83 5105.21,-5603.25 5030.76,-4976.25"/>
+<polygon fill="#999999" stroke="#999999" points="5037.73,-4975.6 5028.42,-4956.57 5023.83,-4977.25 5037.73,-4975.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5204.23" y="-6597.62" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot;&#45;&gt;посетитель -->
+<g id="edge96" class="edge">
+<title>Подпись "Разговор с инопланетянином"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M5421.74,-8235.11C5384.94,-7824.41 5121.82,-5602.31 5036.93,-4975.87"/>
+<polygon fill="#999999" stroke="#999999" points="5043.88,-4975.08 5034.25,-4956.21 5030.01,-4976.97 5043.88,-4975.08"/>
+<text xml:space="preserve" text-anchor="middle" x="5209.33" y="-6597.39" font-family="Arial" font-size="9.00">ощущение</text>
+</g>
+<!-- Подпись &quot;Лавина&quot;&#45;&gt;посетитель -->
+<g id="edge98" class="edge">
+<title>Подпись "Лавина"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6603.69,-935.01C6406.72,-1381.1 5334.94,-3981.58 5070.2,-4653.17"/>
+<polygon fill="#999999" stroke="#999999" points="5063.79,-4650.37 5062.98,-4671.54 5076.81,-4655.49 5063.79,-4650.37"/>
+<text xml:space="preserve" text-anchor="middle" x="5804.44" y="-2796.79" font-family="Arial" font-size="9.00">раскручивание</text>
+</g>
+<!-- Подпись &quot;Лавина&quot;&#45;&gt;посетитель -->
+<g id="edge99" class="edge">
+<title>Подпись "Лавина"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6611.9,-935.06C6441.14,-1381.89 5368.18,-3988.55 5081.44,-4655.85"/>
+<polygon fill="#999999" stroke="#999999" points="5075.07,-4652.96 5073.59,-4674.1 5087.92,-4658.5 5075.07,-4652.96"/>
+<text xml:space="preserve" text-anchor="middle" x="5824.17" y="-2798.15" font-family="Arial" font-size="9.00">остановка</text>
+</g>
+<!-- Подпись &quot;Лавина&quot;&#45;&gt;посетитель -->
+<g id="edge100" class="edge">
+<title>Подпись "Лавина"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6607.92,-934.84C6424.27,-1380.7 5351.63,-3984.86 5075.83,-4654.47"/>
+<polygon fill="#999999" stroke="#999999" points="5069.43,-4651.62 5068.28,-4672.78 5082.37,-4656.96 5069.43,-4651.62"/>
+<text xml:space="preserve" text-anchor="middle" x="5816.87" y="-2797.35" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Лавина&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge101" class="edge">
+<title>Подпись "Лавина"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M6438.96,-927.52C6227.8,-989.86 5892.14,-1088.96 5670.21,-1154.49"/>
+<polygon fill="#999999" stroke="#999999" points="5668.42,-1147.72 5651.22,-1160.09 5672.38,-1161.14 5668.42,-1147.72"/>
+<text xml:space="preserve" text-anchor="middle" x="6037.08" y="-1043.7" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Эллипсоид вращения&quot;&#45;&gt;посетитель -->
+<g id="edge103" class="edge">
+<title>Подпись "Эллипсоид вращения"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4491.82,-2088.21C4552.92,-2440.07 4870.64,-4115.35 4976.75,-4648.24"/>
+<polygon fill="#999999" stroke="#999999" points="4969.82,-4649.25 4980.59,-4667.49 4983.55,-4646.51 4969.82,-4649.25"/>
+<text xml:space="preserve" text-anchor="middle" x="4714.28" y="-3370.93" font-family="Arial" font-size="9.00">вращение</text>
+</g>
+<!-- Подпись &quot;Эллипсоид вращения&quot;&#45;&gt;посетитель -->
+<g id="edge104" class="edge">
+<title>Подпись "Эллипсоид вращения"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4496.41,-2088.39C4568.95,-2440.44 4887.03,-4113.45 4983.47,-4647.29"/>
+<polygon fill="#999999" stroke="#999999" points="4976.58,-4648.51 4987.02,-4666.96 4990.36,-4646.03 4976.58,-4648.51"/>
+<text xml:space="preserve" text-anchor="middle" x="4714.94" y="-3359.74" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Эллипсоид вращения&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge105" class="edge">
+<title>Подпись "Эллипсоид вращения"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M4559.72,-1958.02C4731.29,-1815.18 5141.65,-1473.55 5337.49,-1310.51"/>
+<polygon fill="#999999" stroke="#999999" points="5341.72,-1316.1 5352.61,-1297.92 5332.76,-1305.34 5341.72,-1316.1"/>
+<text xml:space="preserve" text-anchor="middle" x="4931.1" y="-1636.97" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;посетитель -->
+<g id="edge107" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6476.41,-2696.78C6249.08,-2995.41 5384.63,-4233.33 5101.4,-4663.44"/>
+<polygon fill="#999999" stroke="#999999" points="5095.72,-4659.34 5090.59,-4679.9 5107.42,-4667.02 5095.72,-4659.34"/>
+<text xml:space="preserve" text-anchor="middle" x="5771.4" y="-3682.81" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;посетитель -->
+<g id="edge108" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6494.75,-2696.78C6304.57,-2997.52 5432.02,-4250.73 5121.25,-4672.37"/>
+<polygon fill="#999999" stroke="#999999" points="5115.81,-4667.95 5109.55,-4688.2 5127.07,-4676.27 5115.81,-4667.95"/>
+<text xml:space="preserve" text-anchor="middle" x="5782.99" y="-3687.27" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;посетитель -->
+<g id="edge109" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6488.78,-2696.94C6285.95,-2997.04 5416.56,-4244.35 5114.81,-4669.06"/>
+<polygon fill="#999999" stroke="#999999" points="5109.14,-4664.96 5103.25,-4685.31 5120.55,-4673.07 5109.14,-4664.96"/>
+<text xml:space="preserve" text-anchor="middle" x="5786.79" y="-3685.7" font-family="Arial" font-size="9.00">взятие</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;посетитель -->
+<g id="edge110" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6482.8,-2696.74C6267.85,-2995.77 5400.92,-4238.33 5108.23,-4666.02"/>
+<polygon fill="#999999" stroke="#999999" points="5102.55,-4661.92 5097.04,-4682.38 5114.11,-4669.82 5102.55,-4661.92"/>
+<text xml:space="preserve" text-anchor="middle" x="5775.51" y="-3684.08" font-family="Arial" font-size="9.00">вложение</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;кнопка -->
+<g id="edge112" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M6594.15,-2696.53C6752.73,-2861 7170.2,-3293.99 7356.92,-3487.65"/>
+<polygon fill="#999999" stroke="#999999" points="7351.87,-3492.5 7370.79,-3502.04 7361.95,-3482.78 7351.87,-3492.5"/>
+<text xml:space="preserve" text-anchor="middle" x="6950.53" y="-3094.79" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot;&#45;&gt;символ &quot;Механика&quot; -->
+<g id="edge111" class="edge">
+<title>Подпись "Воздушный экспериментальный стол"-&gt;символ "Механика"</title>
+<path fill="none" stroke="#999999" d="M6481.19,-2566.25C6306.43,-2339.34 5724.3,-1583.53 5518.17,-1315.9"/>
+<polygon fill="#999999" stroke="#999999" points="5523.82,-1311.76 5506.07,-1300.19 5512.73,-1320.3 5523.82,-1311.76"/>
+<text xml:space="preserve" text-anchor="middle" x="5982.18" y="-1943.78" font-family="Arial" font-size="9.00">наличие</text>
+</g>
+<!-- Черная дыра&#45;&gt;посетитель -->
+<g id="edge4" class="edge">
+<title>Черная дыра-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6555.04,-7921.6C6363.37,-7535.46 5371.33,-5536.92 5087.27,-4964.66"/>
+<polygon fill="#999999" stroke="#999999" points="5093.7,-4961.88 5078.54,-4947.08 5081.16,-4968.1 5093.7,-4961.88"/>
+<text xml:space="preserve" text-anchor="middle" x="5786.15" y="-6445.83" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Конструктор созвездий&#45;&gt;посетитель -->
+<g id="edge8" class="edge">
+<title>Конструктор созвездий-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2550.96,-6252.84C2954.98,-6016.13 4362.56,-5191.43 4846.38,-4907.96"/>
+<polygon fill="#999999" stroke="#999999" points="4849.9,-4914.01 4863.62,-4897.86 4842.82,-4901.93 4849.9,-4914.01"/>
+<text xml:space="preserve" text-anchor="middle" x="3663.66" y="-5583.1" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Космодром&#45;&gt;посетитель -->
+<g id="edge12" class="edge">
+<title>Космодром-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1669,-1768.44C2089.83,-2151.59 4303.44,-4167.02 4875.93,-4688.25"/>
+<polygon fill="#999999" stroke="#999999" points="4870.96,-4693.19 4890.46,-4701.48 4880.38,-4682.84 4870.96,-4693.19"/>
+<text xml:space="preserve" text-anchor="middle" x="3237.46" y="-3231.05" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Ящик Вуда&#45;&gt;посетитель -->
+<g id="edge19" class="edge">
+<title>Ящик Вуда-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M9952.05,-2984.12C9230.71,-3250.89 6006.18,-4443.42 5196.23,-4742.96"/>
+<polygon fill="#999999" stroke="#999999" points="5193.87,-4736.37 5177.54,-4749.88 5198.72,-4749.51 5193.87,-4736.37"/>
+<text xml:space="preserve" text-anchor="middle" x="7539.13" y="-3866.24" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Пневматическая катапульта&#45;&gt;посетитель -->
+<g id="edge23" class="edge">
+<title>Пневматическая катапульта-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4609.46,-9059.19C4654.01,-8588.14 4926.95,-5702.12 4995.55,-4976.72"/>
+<polygon fill="#999999" stroke="#999999" points="5002.51,-4977.46 4997.43,-4956.89 4988.58,-4976.14 5002.51,-4977.46"/>
+<text xml:space="preserve" text-anchor="middle" x="4767.5" y="-7020.66" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Замерзание воды&#45;&gt;посетитель -->
+<g id="edge30" class="edge">
+<title>Замерзание воды-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7329.15,-8612.44C7059.56,-8170.36 5495.94,-5606.3 5101.51,-4959.52"/>
+<polygon fill="#999999" stroke="#999999" points="5107.64,-4956.12 5091.25,-4942.69 5095.69,-4963.41 5107.64,-4956.12"/>
+<text xml:space="preserve" text-anchor="middle" x="6180.33" y="-6788.68" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Микро/макро&#45;&gt;посетитель -->
+<g id="edge33" class="edge">
+<title>Микро/макро-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1477.44,-2601.47C1976.59,-2913.62 4226.1,-4320.42 4850.18,-4710.71"/>
+<polygon fill="#999999" stroke="#999999" points="4846.22,-4716.49 4866.88,-4721.15 4853.64,-4704.62 4846.22,-4716.49"/>
+<text xml:space="preserve" text-anchor="middle" x="3128.8" y="-3658.79" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Звук в вакууме&#45;&gt;посетитель -->
+<g id="edge39" class="edge">
+<title>Звук в вакууме-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3326.92,-7170.75C3557.1,-6848.3 4580.52,-5414.68 4909.2,-4954.27"/>
+<polygon fill="#999999" stroke="#999999" points="4914.73,-4958.57 4920.65,-4938.23 4903.33,-4950.44 4914.73,-4958.57"/>
+<text xml:space="preserve" text-anchor="middle" x="4083.05" y="-6065.21" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Калейдоскоп&#45;&gt;посетитель -->
+<g id="edge43" class="edge">
+<title>Калейдоскоп-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6038.7,-9093.99C5931.49,-8619.53 5232.12,-5697.95 5052.92,-4973.71"/>
+<polygon fill="#999999" stroke="#999999" points="5059.74,-4972.13 5048.13,-4954.4 5046.15,-4975.5 5059.74,-4972.13"/>
+<text xml:space="preserve" text-anchor="middle" x="5525.8" y="-7025.75" font-family="Arial" font-size="9.00">движение</text>
+</g>
+<!-- Калейдоскоп&#45;&gt;посетитель -->
+<g id="edge44" class="edge">
+<title>Калейдоскоп-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6034.96,-9093.98C5914.95,-8619.66 5215.43,-5700.16 5047.41,-4974.54"/>
+<polygon fill="#999999" stroke="#999999" points="5054.26,-4973.1 5042.93,-4955.19 5040.62,-4976.25 5054.26,-4973.1"/>
+<text xml:space="preserve" text-anchor="middle" x="5506.18" y="-7036.96" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Кольцевой ускоритель&#45;&gt;посетитель -->
+<g id="edge51" class="edge">
+<title>Кольцевой ускоритель-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M8161.32,-3946.43C7542.99,-4116.21 5789.46,-4597.7 5204.1,-4758.43"/>
+<polygon fill="#999999" stroke="#999999" points="5202.25,-4751.68 5184.82,-4763.72 5205.96,-4765.18 5202.25,-4751.68"/>
+<text xml:space="preserve" text-anchor="middle" x="6647.71" y="-4355.13" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Кольцевой ускоритель&#45;&gt;кнопка -->
+<g id="edge49" class="edge">
+<title>Кольцевой ускоритель-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M8191.21,-3824.92C8009.25,-3765.73 7738.83,-3677.77 7579.71,-3626.01"/>
+<polygon fill="#999999" stroke="#999999" points="7582.07,-3619.42 7560.89,-3619.89 7577.74,-3632.73 7582.07,-3619.42"/>
+<text xml:space="preserve" text-anchor="middle" x="7850.45" y="-3728.16" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Инфракрасное излучение&#45;&gt;посетитель -->
+<g id="edge60" class="edge">
+<title>Инфракрасное излучение-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M4509.71,-7500.11C4574.8,-7151.13 4882.08,-5503.64 4980.66,-4975.06"/>
+<polygon fill="#999999" stroke="#999999" points="4987.51,-4976.54 4984.29,-4955.59 4973.75,-4973.97 4987.51,-4976.54"/>
+<text xml:space="preserve" text-anchor="middle" x="4710.18" y="-6240.29" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- На полюсе&#45;&gt;посетитель -->
+<g id="edge67" class="edge">
+<title>На полюсе-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7926.92,-4331.33C7355.28,-4425.45 5771.01,-4686.3 5210.7,-4778.55"/>
+<polygon fill="#999999" stroke="#999999" points="5209.68,-4771.62 5191.09,-4781.78 5211.96,-4785.44 5209.68,-4771.62"/>
+<text xml:space="preserve" text-anchor="middle" x="6533.8" y="-4557.64" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- На полюсе&#45;&gt;кнопка -->
+<g id="edge66" class="edge">
+<title>На полюсе-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M8074.97,-4233.63C7954.31,-4108.25 7684.31,-3827.67 7541.73,-3679.51"/>
+<polygon fill="#999999" stroke="#999999" points="7547.04,-3674.94 7528.13,-3665.38 7536.96,-3684.65 7547.04,-3674.94"/>
+<text xml:space="preserve" text-anchor="middle" x="7790.85" y="-3959.27" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- Вес на разных планетах&#45;&gt;посетитель -->
+<g id="edge71" class="edge">
+<title>Вес на разных планетах-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1118.38,-5423.25C1961.8,-5290.68 4140.74,-4948.21 4811.61,-4842.77"/>
+<polygon fill="#999999" stroke="#999999" points="4812.28,-4849.75 4830.95,-4839.73 4810.11,-4835.92 4812.28,-4849.75"/>
+<text xml:space="preserve" text-anchor="middle" x="2929.99" y="-5135.71" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Зеркало Архимеда&#45;&gt;посетитель -->
+<g id="edge77" class="edge">
+<title>Зеркало Архимеда-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M6622.55,-4273.93C6282.49,-4387.36 5546.21,-4632.94 5199.26,-4748.67"/>
+<polygon fill="#999999" stroke="#999999" points="5197.19,-4741.98 5180.43,-4754.95 5201.62,-4755.26 5197.19,-4741.98"/>
+<text xml:space="preserve" text-anchor="middle" x="5875.9" y="-4514" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Зеркало Архимеда&#45;&gt;кнопка -->
+<g id="edge75" class="edge">
+<title>Зеркало Архимеда-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M6874.29,-4149.57C6992.91,-4038.25 7227.77,-3809.93 7357.7,-3679.87"/>
+<polygon fill="#999999" stroke="#999999" points="7362.39,-3685.08 7371.55,-3665.97 7352.48,-3675.2 7362.39,-3685.08"/>
+<text xml:space="preserve" text-anchor="middle" x="7090.99" y="-3917.42" font-family="Arial" font-size="9.00">наблюдение</text>
+</g>
+<!-- Зеркало Архимеда&#45;&gt;кнопка -->
+<g id="edge76" class="edge">
+<title>Зеркало Архимеда-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M6862.25,-4149.29C6974.28,-4035.91 7214.49,-3801.78 7350.43,-3673.12"/>
+<polygon fill="#999999" stroke="#999999" points="7354.84,-3678.59 7364.57,-3659.77 7345.23,-3668.41 7354.84,-3678.59"/>
+<text xml:space="preserve" text-anchor="middle" x="7071.33" y="-3913.91" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge86" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3590.09,-8700.56C3786.41,-8255.42 4746.5,-5651.25 4966.92,-4972.87"/>
+<polygon fill="#999999" stroke="#999999" points="4973.5,-4975.27 4972.99,-4954.09 4960.18,-4970.97 4973.5,-4975.27"/>
+<text xml:space="preserve" text-anchor="middle" x="4256" y="-6839.42" font-family="Arial" font-size="9.00">выбирание</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge87" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3570.04,-8700.12C3702.04,-8252.19 4663.97,-5633.74 4938.91,-4966.19"/>
+<polygon fill="#999999" stroke="#999999" points="4945.28,-4969.1 4946.46,-4947.94 4932.35,-4963.75 4945.28,-4969.1"/>
+<text xml:space="preserve" text-anchor="middle" x="4231.97" y="-6835.85" font-family="Arial" font-size="9.00">вставание</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge88" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3573.92,-8700.18C3718.89,-8252.85 4680.4,-5637.55 4944.51,-4967.65"/>
+<polygon fill="#999999" stroke="#999999" points="4950.9,-4970.51 4951.75,-4949.34 4937.89,-4965.37 4950.9,-4970.51"/>
+<text xml:space="preserve" text-anchor="middle" x="4226.71" y="-6836.62" font-family="Arial" font-size="9.00">представление</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge89" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3577.86,-8700.26C3735.74,-8253.52 4696.81,-5641.37 4950.09,-4969.11"/>
+<polygon fill="#999999" stroke="#999999" points="4956.51,-4971.92 4957.02,-4950.74 4943.41,-4966.98 4956.51,-4971.92"/>
+<text xml:space="preserve" text-anchor="middle" x="4243.97" y="-6837.39" font-family="Arial" font-size="9.00">движение</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge90" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3581.87,-8700.35C3752.61,-8254.19 4713.21,-5645.17 4955.65,-4970.57"/>
+<polygon fill="#999999" stroke="#999999" points="4962.1,-4973.32 4962.27,-4952.13 4948.93,-4968.59 4962.1,-4973.32"/>
+<text xml:space="preserve" text-anchor="middle" x="4243.76" y="-6838.16" font-family="Arial" font-size="9.00">повторение</text>
+</g>
+<!-- Я &#45; функция&#45;&gt;посетитель -->
+<g id="edge91" class="edge">
+<title>Я - функция-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M3585.95,-8700.45C3769.5,-8254.8 4729.88,-5648.17 4961.31,-4971.71"/>
+<polygon fill="#999999" stroke="#999999" points="4967.86,-4974.17 4967.69,-4952.98 4954.61,-4969.65 4967.86,-4974.17"/>
+<text xml:space="preserve" text-anchor="middle" x="4238.62" y="-6838.78" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Разговор с инопланетянином&#45;&gt;посетитель -->
+<g id="edge97" class="edge">
+<title>Разговор с инопланетянином-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M2613.79,-8204.65C2905.06,-7792.39 4491.52,-5546.93 4909.96,-4954.67"/>
+<polygon fill="#999999" stroke="#999999" points="4915.6,-4958.83 4921.42,-4938.45 4904.16,-4950.75 4915.6,-4958.83"/>
+<text xml:space="preserve" text-anchor="middle" x="3726.87" y="-6582.36" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Лавина&#45;&gt;посетитель -->
+<g id="edge102" class="edge">
+<title>Лавина-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M1238.66,-6472.45C1786.93,-6231.05 4159.21,-5186.53 4832.44,-4890.1"/>
+<polygon fill="#999999" stroke="#999999" points="4834.99,-4896.63 4850.47,-4882.16 4829.35,-4883.81 4834.99,-4896.63"/>
+<text xml:space="preserve" text-anchor="middle" x="3000.54" y="-5683.98" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Эллипсоид вращения&#45;&gt;посетитель -->
+<g id="edge106" class="edge">
+<title>Эллипсоид вращения-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M7885.79,-7862.98C7522.08,-7476.88 5637.75,-5476.53 5134.73,-4942.55"/>
+<polygon fill="#999999" stroke="#999999" points="5140.1,-4938.04 5121.3,-4928.29 5129.91,-4947.64 5140.1,-4938.04"/>
+<text xml:space="preserve" text-anchor="middle" x="6475.25" y="-6405.46" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Воздушный экспериментальный стол&#45;&gt;посетитель -->
+<g id="edge114" class="edge">
+<title>Воздушный экспериментальный стол-&gt;посетитель</title>
+<path fill="none" stroke="#999999" d="M8234.38,-3455.69C7680.86,-3688.51 5786.83,-4485.15 5191.67,-4735.48"/>
+<polygon fill="#999999" stroke="#999999" points="5189.02,-4729.01 5173.3,-4743.21 5194.45,-4741.91 5189.02,-4729.01"/>
+<text xml:space="preserve" text-anchor="middle" x="6678.02" y="-4098.29" font-family="Arial" font-size="9.00">взаимодействие</text>
+</g>
+<!-- Воздушный экспериментальный стол&#45;&gt;кнопка -->
+<g id="edge113" class="edge">
+<title>Воздушный экспериментальный стол-&gt;кнопка</title>
+<path fill="none" stroke="#999999" d="M8087.92,-3452.69C7918.48,-3487.45 7715,-3529.19 7584.03,-3556.05"/>
+<polygon fill="#999999" stroke="#999999" points="7582.92,-3549.13 7564.74,-3560.01 7585.73,-3562.84 7582.92,-3549.13"/>
+<text xml:space="preserve" text-anchor="middle" x="7818.47" y="-3507.07" font-family="Arial" font-size="9.00">нажатие</text>
+</g>
+<!-- посетитель -->
+<g id="node1" class="node">
+<title>посетитель</title>
+<ellipse fill="#b0c4de" stroke="#b3b3b3" cx="5011.19" cy="-4811.4" rx="181.86" ry="144"/>
+<text xml:space="preserve" text-anchor="middle" x="5011.19" y="-4793.4" font-family="Arial" font-size="60.00">посетитель</text>
+</g>
+<!-- рука -->
+<g id="node2" class="node">
+<title>рука</title>
+<ellipse fill="#e6e6fa" stroke="#b3b3b3" cx="8146.78" cy="-2955.59" rx="108" ry="108"/>
+<text xml:space="preserve" text-anchor="middle" x="8146.78" y="-2937.59" font-family="Arial" font-size="60.00">рука</text>
+</g>
+<!-- кнопка -->
+<g id="node3" class="node">
+<title>кнопка</title>
+<ellipse fill="#e6e6fa" stroke="#b3b3b3" cx="7449.47" cy="-3583.65" rx="116.29" ry="108"/>
+<text xml:space="preserve" text-anchor="middle" x="7449.47" y="-3565.65" font-family="Arial" font-size="60.00">кнопка</text>
+</g>
+<!-- символ &quot;Механика&quot; -->
+<g id="node4" class="node">
+<title>символ "Механика"</title>
+<ellipse fill="#f0f8ff" stroke="#b3b3b3" cx="5445.05" cy="-1220.96" rx="314" ry="79.2"/>
+<text xml:space="preserve" text-anchor="middle" x="5445.05" y="-1202.96" font-family="Arial" font-size="60.00">символ "Механика"</text>
+</g>
+<!-- ожидание -->
+<g id="node5" class="node">
+<title>ожидание</title>
+<ellipse fill="#f0f8ff" stroke="#b3b3b3" cx="9950.63" cy="-5768.8" rx="163.78" ry="79.2"/>
+<text xml:space="preserve" text-anchor="middle" x="9950.63" y="-5750.8" font-family="Arial" font-size="60.00">ожидание</text>
+</g>
+<!-- Подпись &quot;Черная дыра&quot; -->
+<g id="node6" class="node">
+<title>Подпись "Черная дыра"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="2047.58" cy="-5142.18" rx="541.53" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2047.58" y="-5121.18" font-family="Arial" font-size="70.00">Подпись "Черная дыра"</text>
+</g>
+<!-- Подпись &quot;Конструктор созвездий&quot; -->
+<g id="node7" class="node">
+<title>Подпись "Конструктор созвездий"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="816.57" cy="-3298.12" rx="816.57" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="816.57" y="-3277.12" font-family="Arial" font-size="70.00">Подпись "Конструктор созвездий"</text>
+</g>
+<!-- Подпись &quot;Космодром&quot; -->
+<g id="node8" class="node">
+<title>Подпись "Космодром"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="6421.19" cy="-467.32" rx="500.27" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6421.19" y="-446.32" font-family="Arial" font-size="70.00">Подпись "Космодром"</text>
+</g>
+<!-- Подпись &quot;Открылась бездна. звезд полна&quot; -->
+<g id="node9" class="node">
+<title>Подпись "Открылась бездна. звезд полна"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4219.47" cy="-699.74" rx="995.34" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4219.47" y="-678.74" font-family="Arial" font-size="70.00">Подпись "Открылась бездна. звезд полна"</text>
+</g>
+<!-- Подпись &quot;Ящик Вуда&quot; -->
+<g id="node10" class="node">
+<title>Подпись "Ящик Вуда"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5917.88" cy="-203.16" rx="486.52" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5917.88" y="-182.16" font-family="Arial" font-size="70.00">Подпись "Ящик Вуда"</text>
+</g>
+<!-- Подпись &quot;Пневматическая катапульта&quot; -->
+<g id="node11" class="node">
+<title>Подпись "Пневматическая катапульта"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4579.23" cy="-341.27" rx="926.58" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4579.23" y="-320.27" font-family="Arial" font-size="70.00">Подпись "Пневматическая катапульта"</text>
+</g>
+<!-- Подпись &quot;Ледяные тела&quot; -->
+<g id="node12" class="node">
+<title>Подпись "Ледяные тела"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="696.15" cy="-4399.41" rx="569.03" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="696.15" y="-4378.41" font-family="Arial" font-size="70.00">Подпись "Ледяные тела"</text>
+</g>
+<!-- Подпись &quot;Солнце&quot; -->
+<g id="node13" class="node">
+<title>Подпись "Солнце"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="8082.76" cy="-1525.05" rx="417.76" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8082.76" y="-1504.05" font-family="Arial" font-size="70.00">Подпись "Солнце"</text>
+</g>
+<!-- Подпись &quot;Замерзание воды&quot; -->
+<g id="node14" class="node">
+<title>Подпись "Замерзание воды"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="9314.59" cy="-6824.94" rx="651.54" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9314.59" y="-6803.94" font-family="Arial" font-size="70.00">Подпись "Замерзание воды"</text>
+</g>
+<!-- Подпись &quot;Микро/макро&quot; -->
+<g id="node15" class="node">
+<title>Подпись "Микро/макро"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="8684.08" cy="-7519.59" rx="541.53" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8684.08" y="-7498.59" font-family="Arial" font-size="70.00">Подпись "Микро/макро"</text>
+</g>
+<!-- Подпись &quot;Звук в вакууме&quot; -->
+<g id="node16" class="node">
+<title>Подпись "Звук в вакууме"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="7724.02" cy="-4602.78" rx="610.29" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7724.02" y="-4581.78" font-family="Arial" font-size="70.00">Подпись "Звук в вакууме"</text>
+</g>
+<!-- Подпись &quot;Калейдоскоп&quot; -->
+<g id="node17" class="node">
+<title>Подпись "Калейдоскоп"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5181.44" cy="-65.05" rx="555.28" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5181.44" y="-44.05" font-family="Arial" font-size="70.00">Подпись "Калейдоскоп"</text>
+</g>
+<!-- Подпись &quot;Кольцевой ускоритель&quot; -->
+<g id="node18" class="node">
+<title>Подпись "Кольцевой ускоритель"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="6776.87" cy="-2445.52" rx="789.06" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6776.87" y="-2424.52" font-family="Arial" font-size="70.00">Подпись "Кольцевой ускоритель"</text>
+</g>
+<!-- Подпись &quot;Инфракрасное видение&quot; -->
+<g id="node19" class="node">
+<title>Подпись "Инфракрасное видение"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="1740.44" cy="-7486.9" rx="789.06" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1740.44" y="-7465.9" font-family="Arial" font-size="70.00">Подпись "Инфракрасное видение"</text>
+</g>
+<!-- Подпись &quot;На полюсе&quot; -->
+<g id="node20" class="node">
+<title>Подпись "На полюсе"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="7246.62" cy="-4464.67" rx="486.52" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7246.62" y="-4443.67" font-family="Arial" font-size="70.00">Подпись "На полюсе"</text>
+</g>
+<!-- Подпись &quot;Вес на разных планетах&quot; -->
+<g id="node21" class="node">
+<title>Подпись "Вес на разных планетах"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4161.92" cy="-1612.8" rx="816.57" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4161.92" y="-1591.8" font-family="Arial" font-size="70.00">Подпись "Вес на разных планетах"</text>
+</g>
+<!-- Подпись &quot;Зеркало Архимеда&quot; -->
+<g id="node22" class="node">
+<title>Подпись "Зеркало Архимеда"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="1901.67" cy="-3842.98" rx="679.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1901.67" y="-3821.98" font-family="Arial" font-size="70.00">Подпись "Зеркало Архимеда"</text>
+</g>
+<!-- Подпись &quot;Я &#45; функция&quot; -->
+<g id="node23" class="node">
+<title>Подпись "Я - функция"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4073.82" cy="-1140.57" rx="516.75" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4073.82" y="-1119.57" font-family="Arial" font-size="70.00">Подпись "Я - функция"</text>
+</g>
+<!-- Подпись &quot;Разговор с инопланетянином&quot; -->
+<g id="node24" class="node">
+<title>Подпись "Разговор с инопланетянином"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="5425.47" cy="-8300.64" rx="940.33" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="5425.47" y="-8279.64" font-family="Arial" font-size="70.00">Подпись "Разговор с инопланетянином"</text>
+</g>
+<!-- Подпись &quot;Лавина&quot; -->
+<g id="node25" class="node">
+<title>Подпись "Лавина"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="6634.74" cy="-869.71" rx="417.76" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6634.74" y="-848.71" font-family="Arial" font-size="70.00">Подпись "Лавина"</text>
+</g>
+<!-- Подпись &quot;Эллипсоид вращения&quot; -->
+<g id="node26" class="node">
+<title>Подпись "Эллипсоид вращения"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="4481.7" cy="-2022.98" rx="734.05" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4481.7" y="-2001.98" font-family="Arial" font-size="70.00">Подпись "Эллипсоид вращения"</text>
+</g>
+<!-- Подпись &quot;Воздушный экспериментальный стол&quot; -->
+<g id="node27" class="node">
+<title>Подпись "Воздушный экспериментальный стол"</title>
+<ellipse fill="lightgreen" stroke="#b3b3b3" cx="6531.41" cy="-2631.45" rx="1105.36" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6531.41" y="-2610.45" font-family="Arial" font-size="70.00">Подпись "Воздушный экспериментальный стол"</text>
+</g>
+<!-- Черная дыра -->
+<g id="node28" class="node">
+<title>Черная дыра</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="6587.24" cy="-7986.46" rx="300.11" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6587.24" y="-7965.46" font-family="Arial" font-size="70.00">Черная дыра</text>
+</g>
+<!-- Конструктор созвездий -->
+<g id="node29" class="node">
+<title>Конструктор созвездий</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="2441.36" cy="-6317.06" rx="575.15" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2441.36" y="-6296.06" font-family="Arial" font-size="70.00">Конструктор созвездий</text>
+</g>
+<!-- Космодром -->
+<g id="node30" class="node">
+<title>Космодром</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="1599.7" cy="-1705.35" rx="258.85" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1599.7" y="-1684.35" font-family="Arial" font-size="70.00">Космодром</text>
+</g>
+<!-- Открылась бездна. звезд полна -->
+<g id="node31" class="node">
+<title>Открылась бездна. звезд полна</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="8053.92" cy="-2255.05" rx="753.92" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8053.92" y="-2234.05" font-family="Arial" font-size="70.00">Открылась бездна. звезд полна</text>
+</g>
+<!-- Ящик Вуда -->
+<g id="node32" class="node">
+<title>Ящик Вуда</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="10095.69" cy="-2930.99" rx="245.1" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="10095.69" y="-2909.99" font-family="Arial" font-size="70.00">Ящик Вуда</text>
+</g>
+<!-- Пневматическая катапульта -->
+<g id="node33" class="node">
+<title>Пневматическая катапульта</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="4603.3" cy="-9124.36" rx="685.16" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4603.3" y="-9103.36" font-family="Arial" font-size="70.00">Пневматическая катапульта</text>
+</g>
+<!-- Ледяные тела -->
+<g id="node34" class="node">
+<title>Ледяные тела</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="9452.61" cy="-8460.05" rx="327.61" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="9452.61" y="-8439.05" font-family="Arial" font-size="70.00">Ледяные тела</text>
+</g>
+<!-- Замерзание воды -->
+<g id="node35" class="node">
+<title>Замерзание воды</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="7368.84" cy="-8677.52" rx="410.12" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7368.84" y="-8656.52" font-family="Arial" font-size="70.00">Замерзание воды</text>
+</g>
+<!-- Микро/макро -->
+<g id="node36" class="node">
+<title>Микро/макро</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="1378.87" cy="-2539.82" rx="300.11" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1378.87" y="-2518.82" font-family="Arial" font-size="70.00">Микро/макро</text>
+</g>
+<!-- Звук в вакууме -->
+<g id="node37" class="node">
+<title>Звук в вакууме</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3280.63" cy="-7235.6" rx="368.87" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3280.63" y="-7214.6" font-family="Arial" font-size="70.00">Звук в вакууме</text>
+</g>
+<!-- Калейдоскоп -->
+<g id="node38" class="node">
+<title>Калейдоскоп</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="6052.46" cy="-9159.25" rx="313.86" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6052.46" y="-9138.25" font-family="Arial" font-size="70.00">Калейдоскоп</text>
+</g>
+<!-- Кольцевой ускоритель -->
+<g id="node39" class="node">
+<title>Кольцевой ускоритель</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="8380.09" cy="-3886.36" rx="547.64" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8380.09" y="-3865.36" font-family="Arial" font-size="70.00">Кольцевой ускоритель</text>
+</g>
+<!-- Инфракрасное излучение -->
+<g id="node40" class="node">
+<title>Инфракрасное излучение</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="4497.52" cy="-7565.48" rx="602.65" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="4497.52" y="-7544.48" font-family="Arial" font-size="70.00">Инфракрасное излучение</text>
+</g>
+<!-- На полюсе -->
+<g id="node41" class="node">
+<title>На полюсе</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="8135.88" cy="-4296.92" rx="245.1" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8135.88" y="-4275.92" font-family="Arial" font-size="70.00">На полюсе</text>
+</g>
+<!-- Вес на разных планетах -->
+<g id="node42" class="node">
+<title>Вес на разных планетах</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="780.67" cy="-5476.33" rx="575.15" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="780.67" y="-5455.33" font-family="Arial" font-size="70.00">Вес на разных планетах</text>
+</g>
+<!-- Зеркало Архимеда -->
+<g id="node43" class="node">
+<title>Зеркало Архимеда</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="6801.59" cy="-4214.21" rx="437.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="6801.59" y="-4193.21" font-family="Arial" font-size="70.00">Зеркало Архимеда</text>
+</g>
+<!-- Я &#45; функция -->
+<g id="node44" class="node">
+<title>Я - функция</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="3555.89" cy="-8765.43" rx="275.33" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="3555.89" y="-8744.43" font-family="Arial" font-size="70.00">Я - функция</text>
+</g>
+<!-- Разговор с инопланетянином -->
+<g id="node45" class="node">
+<title>Разговор с инопланетянином</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="2567.7" cy="-8269.89" rx="698.91" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="2567.7" y="-8248.89" font-family="Arial" font-size="70.00">Разговор с инопланетянином</text>
+</g>
+<!-- Лавина -->
+<g id="node46" class="node">
+<title>Лавина</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="1124.98" cy="-6522.5" rx="176.34" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1124.98" y="-6501.5" font-family="Arial" font-size="70.00">Лавина</text>
+</g>
+<!-- Эллипсоид вращения -->
+<g id="node47" class="node">
+<title>Эллипсоид вращения</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="7946.76" cy="-7927.71" rx="492.63" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="7946.76" y="-7906.71" font-family="Arial" font-size="70.00">Эллипсоид вращения</text>
+</g>
+<!-- Воздушный экспериментальный стол -->
+<g id="node48" class="node">
+<title>Воздушный экспериментальный стол</title>
+<ellipse fill="yellow" stroke="#b3b3b3" cx="8387.68" cy="-3391.21" rx="863.94" ry="65.05"/>
+<text xml:space="preserve" text-anchor="middle" x="8387.68" y="-3370.21" font-family="Arial" font-size="70.00">Воздушный экспериментальный стол</text>
+</g>
+<!-- Изображение в круге #1 -->
+<g id="node49" class="node">
+<title>Изображение в круге #1</title>
+<ellipse fill="#ffe4e1" stroke="#b3b3b3" cx="1954.64" cy="-1151.57" rx="494.64" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="1954.64" y="-1133.57" font-family="Arial" font-size="60.00">Изображение в круге #1</text>
+</g>
+<!-- Изображение в круге #2 -->
+<g id="node50" class="node">
+<title>Изображение в круге #2</title>
+<ellipse fill="#ffe4e1" stroke="#b3b3b3" cx="9619.64" cy="-1516.57" rx="494.64" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="9619.64" y="-1498.57" font-family="Arial" font-size="60.00">Изображение в круге #2</text>
+</g>
+<!-- Изображение в круге #3 -->
+<g id="node51" class="node">
+<title>Изображение в круге #3</title>
+<ellipse fill="#ffe4e1" stroke="#b3b3b3" cx="9619.64" cy="-4801.57" rx="494.64" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="9619.64" y="-4783.57" font-family="Arial" font-size="60.00">Изображение в круге #3</text>
+</g>
+<!-- Изображение в круге #4 -->
+<g id="node52" class="node">
+<title>Изображение в круге #4</title>
+<ellipse fill="#ffe4e1" stroke="#b3b3b3" cx="8159.64" cy="-786.57" rx="494.64" ry="56.57"/>
+<text xml:space="preserve" text-anchor="middle" x="8159.64" y="-768.57" font-family="Arial" font-size="60.00">Изображение в круге #4</text>
+</g>
+</g>
+</svg>
